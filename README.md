@@ -22,5 +22,5 @@
 ## Trabalho Atual:
 * Analista de Sistemas na IOTConnect.
   
-## Entre em contato comigo:
+## Contatos:
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caio-o-campos/)
