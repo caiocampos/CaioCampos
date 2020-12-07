@@ -1,10 +1,5 @@
 # Caio Campos
 
-## Estou estudando atualmente:
-* Rust
-* Go
-* Python
-
 ## Tecnologias de destaque:
 |JavaScript / TypeScrip | Rust | Go | Python | Java |
 | :-------------------: | :--: | :-: | :---: | :--: |
