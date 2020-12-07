@@ -1,8 +1,8 @@
 # Caio Campos
 
 ## Tecnologias de destaque:
-|JavaScript / TypeScrip | Rust | Go | Python | Java |
-| :-------------------: | :--: | :-: | :---: | :--: |
+|JavaScript / TypeScript | Rust | Go | Python | Java |
+| :--------------------: | :--: | :-: | :---: | :--: |
 | React <br /> Angular <br /> AngularJS <br /> Express <br /> Node.js <br /> AWS Lambda | wasm-bindgen <br /> rocket <br /> diesel | gorilla/mux <br /> mgo <br /> AWS Lambda | AWS Lambda | Spring Framework |
 
 ## Projetos:
