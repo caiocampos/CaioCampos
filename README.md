@@ -186,7 +186,7 @@
 
 ## Trabalho Atual:
 
-- Analista de Sistemas na IOTConnect.
+- Líder da equipe de desenvolvimento na IOTConnect.
 
 ## Contatos:
 
