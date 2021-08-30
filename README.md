@@ -1,5 +1,10 @@
 # Caio Campos
 
+<p>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocampos&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=caiocampos&show_icons=true&hide_title=true&hide_rank=true&count_private=true&disable_animations=true&theme=tokyonight"/>
+</p>
+
 <details>
   <summary>Tecnologias de destaque:</summary>
   <table class="rich-diff-level-zero">
