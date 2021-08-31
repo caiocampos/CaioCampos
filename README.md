@@ -1,9 +1,17 @@
 # Caio Campos
 
-<p align="center">
-  <img title="Status" src="https://github-readme-stats.vercel.app/api?username=caiocampos&show_icons=true&hide_title=true&hide_rank=true&count_private=true&disable_animations=true&theme=tokyonight&line_height=24" />&emsp;
+<div align="center">
+  <span>
+    &ensp;
+    <img title="Status" src="https://github-readme-stats.vercel.app/api?username=caiocampos&show_icons=true&hide_title=true&hide_rank=true&count_private=true&disable_animations=true&theme=tokyonight&line_height=24" />
+    &ensp;
+  </span>
+  <span>
+    &ensp;
   <img title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=compact&hide=c&langs_count=8&theme=tokyonight" />
-</p>
+    &ensp;
+  </span>
+</div>
 
 <details>
   <summary>Tecnologias de destaque:</summary>
