@@ -1,8 +1,8 @@
 # Caio Campos
 
 <p align="center">
-  <img title="Status" src="https://github-readme-stats.vercel.app/api?username=caiocampos&show_icons=true&hide_title=true&hide_rank=true&count_private=true&disable_animations=true&theme=tokyonight&line_height=29"/>
-  <img title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocampos&layout=compact&hide=C&langs_count=8&theme=tokyonight"/>
+  <img title="Status" src="https://github-readme-stats.vercel.app/api?username=caiocampos&show_icons=true&hide_title=true&hide_rank=true&count_private=true&disable_animations=true&theme=tokyonight&line_height=24" />&emsp;
+  <img title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=compact&hide=c&langs_count=8&theme=tokyonight" />
 </p>
 
 <details>
