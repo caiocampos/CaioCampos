@@ -1,7 +1,9 @@
 # Caio Campos
 
-![Stats](https://github-readme-stats.vercel.app/api?username=caiocampos&show_icons=true&hide_title=true&hide_rank=true&count_private=true&disable_animations=true&theme=tokyonight&line_height=29)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocampos&layout=compact&hide=C&langs_count=8&theme=tokyonight)
+<p align="center">
+  <img align="top" title="Status" src="https://github-readme-stats.vercel.app/api?username=caiocampos&show_icons=true&hide_title=true&hide_rank=true&count_private=true&disable_animations=true&theme=tokyonight&line_height=29"/>
+  <img align="top" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocampos&layout=compact&hide=C&langs_count=8&theme=tokyonight"/>
+</p>
 
 <details>
   <summary>Tecnologias de destaque:</summary>
@@ -193,4 +195,4 @@
 
 ## Contatos:
 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caio-o-campos/)
+- [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caio-o-campos/)
