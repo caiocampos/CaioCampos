@@ -2,7 +2,7 @@ name: Generate files
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 0 * * *"
+    - cron: "42 * * * *"
   workflow_dispatch:
 
 jobs:
