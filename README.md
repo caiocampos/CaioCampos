@@ -203,4 +203,6 @@
 
 ## Contatos:
 
-- [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caio-o-campos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-o-campos/)
+
+![Snake animation](https://github.com/caiocampos/CaioCampos/blob/output/github-contribution-grid-snake.svg)
