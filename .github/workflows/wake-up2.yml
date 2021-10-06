@@ -1,0 +1,17 @@
+name: Wake-up servers
+
+on:
+  schedule:
+    - cron: "4/6 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to wake-up servers
+    runs-on: ubuntu-latest
+    steps:
+      - name: shrtr HTTP Request
+        uses: fjogeleit/http-request-action@v1.8.1
+        with:
+          url: 'https://shrtr.caiocampos.repl.co/@/count'
+          method: 'GET'
