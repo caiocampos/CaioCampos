@@ -1,4 +1,4 @@
-name: Wake-up servers
+name: Wake-up servers 1
 
 on:
   schedule:
