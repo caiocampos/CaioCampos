@@ -2,7 +2,7 @@ name: Wake-up servers
 
 on:
   schedule:
-    - cron: "0/5 * * * *"
+    - cron: "1/5 * * * *"
   workflow_dispatch:
 
 jobs:
