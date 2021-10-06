@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Jobs to update files
+    name: Jobs to wake-up servers
     runs-on: ubuntu-latest
     steps:
       - name: shrtr HTTP Request
