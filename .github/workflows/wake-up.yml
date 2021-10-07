@@ -1,0 +1,22 @@
+name: Wake-up servers
+
+on:
+  schedule:
+    - cron: "1/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to wake-up servers
+    runs-on: ubuntu-latest
+    steps:
+      - name: HTTP Requests
+        run: >
+             for i in `seq 1 4`; do (
+                 echo "response -> $(curl -s https://shrtr.caiocampos.repl.co/@/count)";
+                 SLEEP_TIME=$((50 + RANDOM % 31));
+                 echo "sleeping ${SLEEP_TIME}s";
+                 sleep $SLEEP_TIME;
+                 );
+             done
+        shell: bash
