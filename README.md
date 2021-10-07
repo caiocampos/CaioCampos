@@ -19,7 +19,7 @@
     <thead class="rich-diff-level-one">
       <tr>
         <th align="center">Linguagem</th>
-        <th align="center">Bibliotecas</th>
+        <th align="center">Tecnologias</th>
       </tr>
     </thead>
     <tbody class="rich-diff-level-one">
