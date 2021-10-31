@@ -111,6 +111,17 @@
         </td>
       </tr>
       <tr>
+        <td>blog-posts</td>
+        <td>Página de postagens</td>
+        <td align="center">
+          <a href="https://github.com/caiocampos/blog-posts">Github</a>
+        </td>
+        <td align="center">
+          <a href="https://caiocampos.github.io/blog-posts" rel="nofollow">blog-posts</a>
+        </td>
+        <td align="center"></td>
+      </tr>
+      <tr>
         <td>Shrtr</td>
         <td>Encurtador de links</td>
         <td align="center">
