@@ -210,7 +210,7 @@
 
 ## Trabalho Atual:
 
-- Líder da equipe de desenvolvimento na IOTConnect.
+- Líder da equipe de desenvolvimento na Sanfir.
 
 ## Contatos:
 
