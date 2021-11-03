@@ -2,6 +2,7 @@
 
 Meu nome é Caio Campos
 
+*Read this in other languages: [English](README.en.md), [Português](README.md).*
 
 ### [💻 Meus projetos](https://caiocampos.github.io)
 
