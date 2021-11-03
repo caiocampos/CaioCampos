@@ -1,4 +1,8 @@
-# Caio Campos
+### Olá 👋
+
+Meu nome é Caio Campos
+
+### [Projetos](https://caiocampos.github.io)
 
 <div align="center">
   <span>
@@ -13,207 +17,54 @@
   </span>
 </div>
 
-<details>
-  <summary>Tecnologias de destaque:</summary>
-  <table class="rich-diff-level-zero">
-    <thead class="rich-diff-level-one">
-      <tr>
-        <th align="center">Linguagem</th>
-        <th align="center">Tecnologias</th>
-      </tr>
-    </thead>
-    <tbody class="rich-diff-level-one">
-      <tr>
-        <td>JavaScript / TypeScript</td>
-        <td>React, Angular, AngularJS, Express, Node.js, AWS Lambda</td>
-      </tr>
-      <tr>
-        <td>Rust</td>
-        <td>wasm-bindgen, rocket, diesel</td>
-      </tr>
-      <tr>
-        <td>Go</td>
-        <td>gorilla/mux, mgo, AWS Lambda</td>
-      </tr>
-      <tr>
-        <td>Python</td>
-        <td>AWS Lambda</td>
-      </tr>
-      <tr>
-        <td>Java</td>
-        <td>Spring Framework</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
 
-<details>
-  <summary>Projetos:</summary>
-  <h5><a href="https://caiocampos.github.io">Lista completa</a></h5>
-  <table class="rich-diff-level-zero">
-    <thead class="rich-diff-level-one">
-      <tr>
-        <th align="center">Projeto</th>
-        <th align="center">Descrição</th>
-        <th align="center">Código</th>
-        <th align="center">Página de demonstração</th>
-        <th align="center">Repositório</th>
-      </tr>
-    </thead>
-    <tbody class="rich-diff-level-one">
-      <tr>
-        <td>Primes</td>
-        <td>Biblioteca WebAssembly (Wasm) para cálcular números primos</td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/primes">Github</a>
-        </td>
-        <td align="center">
-          <a
-            href="https://caiocampos.github.io/primes"
-            rel="nofollow">Primes</a>
-        </td>
-        <td align="center">
-          <a
-            href="https://www.npmjs.com/package/@caiocampos/primes"
-            rel="nofollow">NPM</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tabs</td>
-        <td>Componente de abas</td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/tabs">Github</a>
-        </td>
-        <td align="center">
-          <a href="https://caiocampos.github.io/tabs" rel="nofollow">Tabs</a>
-        </td>
-        <td align="center">
-          <a
-            href="https://www.npmjs.com/package/@caiocampos/tabs"
-            rel="nofollow">NPM</a>
-        </td>
-      </tr>
-      <tr>
-        <td>links-buttons</td>
-        <td>Componente que gera um menu de links em páginas</td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/links-buttons">Github</a>
-        </td>
-        <td align="center">
-          <a
-            href="https://caiocampos.github.io/links-buttons"
-            rel="nofollow">links-buttons</a>
-        </td>
-        <td align="center">
-          <a
-            href="https://www.npmjs.com/package/@caiocampos/links-buttons"
-            rel="nofollow">NPM</a>
-        </td>
-      </tr>
-      <tr>
-        <td>blog-posts</td>
-        <td>Página de postagens</td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/blog-posts">Github</a>
-        </td>
-        <td align="center">
-          <a href="https://caiocampos.github.io/blog-posts" rel="nofollow">blog-posts</a>
-        </td>
-        <td align="center"></td>
-      </tr>
-      <tr>
-        <td>Shrtr</td>
-        <td>Encurtador de links</td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/shrtr">Github</a>
-        </td>
-        <td align="center">
-          <a href="https://caiocampos.github.io/shrtr" rel="nofollow">Shrtr</a>
-        </td>
-        <td align="center"></td>
-      </tr>
-      <tr>
-        <td>img-fuse</td>
-        <td>
-          Projeto de programa em rust para mesclar imagens para usar em cards
-          digitais
-        </td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/img-fuse">Github</a>
-        </td>
-        <td align="center"></td>
-        <td align="center"></td>
-      </tr>
-      <tr>
-        <td>Restaurantes</td>
-        <td>
-          Protótipo de Software com login, gestão de autoridades e CRUD de
-          entidades
-        </td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/restaurantes-app">
-            Github (Front)
-          </a>
-          <a href="https://github.com/caiocampos/Restaurantes">
-            Github (Back)
-          </a>
-        </td>
-        <td align="center">
-          <a
-            href="https://caiocampos.github.io/restaurantes-app"
-            rel="nofollow">Restaurantes</a>
-        </td>
-        <td align="center"></td>
-      </tr>
-      <tr>
-        <td>POI-inc</td>
-        <td>Protótipo de Software de gerência de Pontos de Interesse</td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/POI-inc">Github</a>
-        </td>
-        <td align="center"></td>
-        <td align="center"></td>
-      </tr>
-      <tr>
-        <td>GLAE</td>
-        <td>
-          Biblioteca de funções voltada ao ensino de programação básica usando
-          elementos gráficos
-        </td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/GLAE">Github</a>
-        </td>
-        <td align="center"></td>
-        <td align="center"></td>
-      </tr>
-      <tr>
-        <td>AtualizaHora</td>
-        <td>Atualiza o horário de computadores com problemas de bateria</td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/AtualizaHora">Github</a>
-        </td>
-        <td align="center"></td>
-        <td align="center"></td>
-      </tr>
-      <tr>
-        <td>PDIEditor</td>
-        <td>Editor de Imagens simples</td>
-        <td align="center">
-          <a href="https://github.com/caiocampos/PDIEditor">Github</a>
-        </td>
-        <td align="center"></td>
-        <td align="center"></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
+### Tecnologias de destaque:
+![JavaScript]( 	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/GOLANG-7fd5ea.svg?&style=for-the-badge&logo=go&logoColor=333333)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Postgres](https://img.shields.io/badge/POSTGRES-316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-121011.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Trabalho Atual:
 
 - Líder da equipe de desenvolvimento na Sanfir.
 
+![Snake animation](https://github.com/caiocampos/CaioCampos/blob/output/github-contribution-grid-snake.svg)
+
 ## Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-o-campos/)
-
-![Snake animation](https://github.com/caiocampos/CaioCampos/blob/output/github-contribution-grid-snake.svg)
