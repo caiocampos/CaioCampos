@@ -15,7 +15,7 @@ Meu nome é Caio Campos
   </span>
   <span>
     &ensp;
-  <img title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=compact&hide=c&langs_count=8&theme=tokyonight" />
+  <img title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=compact&hide=c,html,css,makefile&langs_count=8&theme=tokyonight" />
     &ensp;
   </span>
 </div>
