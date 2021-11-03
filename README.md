@@ -2,8 +2,10 @@
 
 Meu nome é Caio Campos
 
-### [Projetos](https://caiocampos.github.io)
 
+### [💻 Meus projetos](https://caiocampos.github.io)
+
+<hr/>
 <div align="center">
   <span>
     &ensp;
@@ -16,7 +18,6 @@ Meu nome é Caio Campos
     &ensp;
   </span>
 </div>
-
 
 ### Tecnologias de destaque:
 ![JavaScript]( 	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -59,12 +60,13 @@ Meu nome é Caio Campos
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## Trabalho Atual:
+
+### Trabalho Atual:
 
 - Líder da equipe de desenvolvimento na Sanfir.
 
 ![Snake animation](https://github.com/caiocampos/CaioCampos/blob/output/github-contribution-grid-snake.svg)
 
-## Contatos:
+### Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-o-campos/)
