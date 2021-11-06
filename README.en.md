@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi :wave:
 
 My name is Caio Campos
 
