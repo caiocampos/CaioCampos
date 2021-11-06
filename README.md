@@ -4,7 +4,7 @@ Meu nome é Caio Campos
 
 *Read this in other languages: [English](README.en.md), [Português](README.md).*
 
-### [💻 Meus projetos](https://caiocampos.github.io)
+### Veja mais na página de projetos: [:octocat:](https://caiocampos.github.io)
 
 <hr/>
 <div align="center">
