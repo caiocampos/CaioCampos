@@ -31,8 +31,8 @@ To know my projects, please visit the website: https://caiocampos.github.io
   </span>
 </div>
 
+---
 
-### Featured Technologies:
 <div align="justify">
   <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -74,6 +74,7 @@ To know my projects, please visit the website: https://caiocampos.github.io
   <img title="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img title="heroku" src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
+
 
 <div align="center">
   <img title="Snake animation" src="https://github.com/caiocampos/CaioCampos/blob/output/github-contribution-grid-snake.svg"/>
