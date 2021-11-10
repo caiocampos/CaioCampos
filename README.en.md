@@ -6,6 +6,7 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 *Read this in other languages: [English](README.en.md), [Português](README.md).*
 
+
 <div align="center">
   <span>
     <a title="Linkedin" href="https://www.linkedin.com/in/caio-o-campos/"><img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png"/></a>
@@ -82,4 +83,8 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 <div align="center">
   <img title="Snake animation" src="https://github.com/caiocampos/CaioCampos/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/github/docs/blob/main/assets/images/playground/loading.gif"/>
 </div>
