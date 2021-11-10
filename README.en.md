@@ -30,7 +30,7 @@ I'm Caio, I work at Sanfir as Squad Leader, to know my projects, please visit th
 </div>
 
 
-### Tecnologias de destaque:
+### Featured Technologies:
 <div align="justify">
   <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
