@@ -8,11 +8,15 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 
 <div align="center">
   <span>
-    <a title="Github" href="https://github.com/caiocampos"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="36px" height="36px"/></a>
+    <a title="Linkedin" href="https://www.linkedin.com/in/caio-o-campos/"><img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png"/></a>
   </span>
   &ensp;
   <span>
-    <a title="Linkedin" href="https://www.linkedin.com/in/caio-o-campos/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="36px" height="36px"/></a>
+    <a title="E-Mail" href="mailto:d43ehh9ml@relay.firefox.com"><img src="https://cdn.iconscout.com/icon/free/png-32/mail-1299-1100772.png"/></a>
+  </span>
+  &ensp;
+  <span>
+    <a title="Github" href="https://github.com/caiocampos"><img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png"/></a>
   </span>
 </div>
 
