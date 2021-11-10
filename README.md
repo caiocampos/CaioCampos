@@ -69,7 +69,7 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 <div align="center">
   <span>
     &ensp;
-    <img align="top" title="Metrics" src="https://metrics.lecoq.io/caiocampos?template=classic&base.activity=0&base.community=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo"/>
+    <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/github-metrics.svg"/>
     &ensp;
   </span>
   <span>
