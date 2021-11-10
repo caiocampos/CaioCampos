@@ -1,0 +1,18 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 * * * *"}]
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: caiocampos
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
