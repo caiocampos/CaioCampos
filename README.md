@@ -22,21 +22,6 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 
 ---
 
-<div align="center">
-  <span>
-    &ensp;
-    <img title="Status" src="https://github-readme-stats.vercel.app/api?username=caiocampos&show_icons=true&hide_title=true&hide_rank=true&count_private=true&disable_animations=true&theme=tokyonight&line_height=24"/>
-    &ensp;
-  </span>
-  <span>
-    &ensp;
-    <img title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=compact&hide=c,html,css,makefile&langs_count=8&theme=tokyonight"/>
-    &ensp;
-  </span>
-</div>
-
----
-
 <div align="justify">
   <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -79,8 +64,22 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
   <img title="heroku" src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
+---
+
+<div align="center">
+  <span>
+    &ensp;
+    <img align="top" title="Metrics" src="https://metrics.lecoq.io/caiocampos?template=classic&base.activity=0&base.community=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo"/>
+    &ensp;
+  </span>
+  <span>
+    &ensp;
+    <img align="top" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&theme=tokyonight"/>
+    &ensp;
+  </span>
+</div>
+
 
 <div align="center">
   <img title="Snake animation" src="https://github.com/caiocampos/CaioCampos/blob/output/github-contribution-grid-snake.svg"/>
-  <img title="Metrics" src="https://metrics.lecoq.io/caiocampos?template=classic&base.activity=0&base.community=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo"/>
 </div>
