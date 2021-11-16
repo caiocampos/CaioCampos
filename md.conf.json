@@ -1,0 +1,16 @@
+{
+  "input_folder": "in",
+  "output_folder": "out",
+  "files": [
+    {
+      "name": "pt",
+      "inputs": ["intro.pt.md", "body.md"],
+      "output": "README.md"
+    },
+    {
+      "name": "en",
+      "inputs": ["intro.en.md", "body.md"],
+      "output": "README.en.md"
+    }
+  ]
+}
