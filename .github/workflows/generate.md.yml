@@ -25,7 +25,11 @@ jobs:
         persist-credentials: false
         ref: base
         path: out
-    - run: cp -r ./out/* ./
+    - name: Organize folders
+      run: |
+           cp -r ./out/* ./
+           rm -rf files
+           rm -f md.conf.json
     - name: Run
       run: cargo run
     - name: Deploy
