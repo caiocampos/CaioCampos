@@ -3,6 +3,7 @@ name: Generate MDs
 on:
   push:
     branches: [ base ]
+  workflow_dispatch:
 
 env:
   CARGO_TERM_COLOR: always
