@@ -70,7 +70,7 @@ To know my projects, please visit the website: https://caiocampos.github.io
 <div align="center">
   <span>
     &ensp;
-    <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/github-metrics.svg"/>
+    <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/output/github-metrics.svg"/>
     &ensp;
   </span>
   <span>
