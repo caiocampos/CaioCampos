@@ -1,7 +1,5 @@
 name: Metrics
 on:
-  push:
-    branches: [ base ]
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
