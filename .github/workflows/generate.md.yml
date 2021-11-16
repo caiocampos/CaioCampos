@@ -24,8 +24,8 @@ jobs:
       with:
         persist-credentials: false
         ref: base
-        path: base
-    - run: cp -r ./base/* ./
+        path: out
+    - run: cp -r ./out/* ./
     - name: Run
       run: cargo run
     - name: Deploy
