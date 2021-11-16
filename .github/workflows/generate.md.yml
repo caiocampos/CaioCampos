@@ -26,7 +26,7 @@ jobs:
         ref: base
         path: base
     - run: ls
-    - run: cp /base/* /
+    - run: cp –R –f ./base/* /
     - run: ls
     - name: Run
       run: cargo run
