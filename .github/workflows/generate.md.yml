@@ -25,10 +25,7 @@ jobs:
         persist-credentials: false
         ref: base
         path: base
-    - run: ls
-    - run: cp --help
-    - run: sudo cp –r –f ./base/* /
-    - run: ls
+    - run: cp -r ./base/* ./
     - name: Run
       run: cargo run
     - name: Deploy
