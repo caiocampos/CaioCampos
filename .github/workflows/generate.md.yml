@@ -28,8 +28,8 @@ jobs:
     - name: Organize folders
       run: |
            cp -r ./out/* ./
-           rm -rf files
-           rm -f md.conf.json
+           rm -rf ./out/files
+           rm -f ./out/md.conf.json
     - name: Run
       run: cargo run
     - name: Deploy
