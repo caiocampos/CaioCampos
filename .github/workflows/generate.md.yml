@@ -1,0 +1,33 @@
+name: Generate MDs
+
+on:
+  push:
+    branches: [ base ]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout md-fuse
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        repository: caiocampos/md-fuse
+    - name: Checkout base files
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        ref: 'base'
+    - name: Build
+      run: cargo run
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@4.1.5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: master
+        FOLDER: out
