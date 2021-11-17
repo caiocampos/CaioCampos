@@ -65,7 +65,7 @@
 <div align="center">
   <span>
     &ensp;
-    <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/output/github-metrics.svg"/>
+    <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/metrics/github-metrics.svg"/>
     &ensp;
   </span>
   <span>
@@ -77,10 +77,9 @@
 
 
 <div align="center">
-  <img title="Snake animation" src="https://github.com/caiocampos/CaioCampos/blob/output/github-contribution-grid-snake.svg"/>
+  <img title="Snake animation" src="https://github.com/caiocampos/CaioCampos/blob/snake/github-contribution-grid-snake.svg"/>
 </div>
 
 <div align="center">
   <img src="https://github.com/github/docs/blob/main/assets/images/playground/loading.gif"/>
 </div>
-
