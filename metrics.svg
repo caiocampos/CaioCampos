@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="638" class="">
+  <defs>
+      <style/>
+  </defs>
+  <style>
+    svg {
+      background-color: #1a1b27;
+      border-radius: 5px;
+    }
+  </style>
+  <img src="https://raw.githubusercontent.com/caiocampos/CaioCampos/metrics/github-metrics.svg"/>
+</svg>
