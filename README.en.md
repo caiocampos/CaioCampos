@@ -26,42 +26,49 @@ To know my projects, please visit the website: https://caiocampos.github.io
 <div align="justify">
   <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img title="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img title="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img title="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img title="MobX" src="https://img.shields.io/badge/MobX-EEE?style=for-the-badge&logo=mobx&logoColor=E25F18" />
   <img title="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img title="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img title="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img title="Styled-components" src="https://img.shields.io/badge/styled--components-323232?style=for-the-badge&logo=styled-components&logoColor=DB78C7" />
   <img title="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img title="NodeJS" src="https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img title="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img title="Node.js" src="https://img.shields.io/badge/NODE.JS-393.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img title="NestJS" src="https://img.shields.io/badge/NestJS-000.svg?&style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img title="Express.js" src="https://img.shields.io/badge/Express.js-EEE?style=for-the-badge&logo=express&logoColor=black" />
   <img title="Java" src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img title="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img title="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img title="Shell" src="https://img.shields.io/badge/Shell-000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img title="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img title="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img title="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img title="Python" src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img title="Golang" src="https://img.shields.io/badge/GOLANG-7fd5ea.svg?&style=for-the-badge&logo=go&logoColor=333333" />
+  <img title="Rust" src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img title="C" src="https://img.shields.io/badge/C-EEE?style=for-the-badge&logo=c&logoColor=00599C" />
+  <img title="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img title="Python" src="https://img.shields.io/badge/PYTHON-1E415E.svg?&style=for-the-badge&logo=python&logoColor=FFE56B" />
+  <img title="Golang" src="https://img.shields.io/badge/GOLANG-007D9C.svg?&style=for-the-badge&logo=go&logoColor=white" />
   <img title="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img title="Flutter" src="https://img.shields.io/badge/Flutter-EEE?style=for-the-badge&logo=flutter&logoColor=02569B" />
   <img title="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img title="Godot" src="https://img.shields.io/badge/Godot-333639?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
+  <img title="Unity" src="https://img.shields.io/badge/Unity-EEE?style=for-the-badge&logo=unity&logoColor=black" />
   <img title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img title="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
-  <img title="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img title="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img title="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img title="Material-UI" src="https://img.shields.io/badge/Material--UI-212121?style=for-the-badge&logo=mui&logoColor=00B0FF" />
+  <img title="Ant Design" src="https://img.shields.io/badge/Ant_Design-EEE?style=for-the-badge&logo=ant-design&logoColor=0170FE" />
   <img title="Postgres" src="https://img.shields.io/badge/POSTGRES-316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img title="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img title="Linux" src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img title="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img title="Linux" src="https://img.shields.io/badge/LINUX-185886?style=for-the-badge&logo=linux&logoColor=55A7CC" />
+  <img title="Ubuntu" src="https://img.shields.io/badge/Ubuntu-333?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
   <img title="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img title="VSCode" src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img title="Git" src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img title="GitHub" src="https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img title="GithubActions" src="https://img.shields.io/badge/GITHUB%20ACTIONS-121011.svg?&style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img title="AWS" src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img title="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img title="VSCode" src="https://img.shields.io/badge/vscode-2C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=0066B8" />
+  <img title="Git" src="https://img.shields.io/badge/GIT-EEE.svg?&style=for-the-badge&logo=git&logoColor=F05033" />
+  <img title="GitHub" src="https://img.shields.io/badge/GITHUB-9CDAF0.svg?&style=for-the-badge&logo=github&logoColor=black" />
+  <img title="Github Actions" src="https://img.shields.io/badge/GH_ACTIONS-333.svg?&style=for-the-badge&logo=github-actions&logoColor=2088FF" />
+  <img title="Markdown" src="https://img.shields.io/badge/Markdown-2F9FE5?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img title="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=EC912D" />
+  <img title="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img title="heroku" src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
