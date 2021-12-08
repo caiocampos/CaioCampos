@@ -82,7 +82,7 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
   </span>
   <span>
     &ensp;
-    <img align="top" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Java-Random-Stuff,C-Random-Stuff&theme=tokyonight"/>
+    <img align="top" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Random-Stuff,Java-Random-Stuff,C-Random-Stuff&theme=tokyonight"/>
     &ensp;
   </span>
 </div>
