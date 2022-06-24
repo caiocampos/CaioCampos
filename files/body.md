@@ -81,7 +81,10 @@
     &ensp;
   </span>
 </div>
-
+  
+<div align="center">
+  <img title="Snake animation" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&branding=false&svg-height=100"/>
+</div>
 
 <div align="center">
   <img title="Snake animation" src="https://github.com/caiocampos/CaioCampos/blob/snake/github-contribution-grid-snake.svg"/>
