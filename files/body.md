@@ -4,15 +4,21 @@
 
 <div align="center">
   <span>
-    <a title="Linkedin" href="https://www.linkedin.com/in/caio-o-campos"><img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png"/></a>
+    <a title="Linkedin" href="https://www.linkedin.com/in/caio-o-campos">
+      <img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png"/>
+    </a>
   </span>
   &ensp;
   <span>
-    <a title="E-Mail" href="mailto:d43ehh9ml@relay.firefox.com"><img src="https://cdn.iconscout.com/icon/free/png-32/mail-1299-1100772.png"/></a>
+    <a title="E-Mail" href="mailto:d43ehh9ml@relay.firefox.com">
+      <img src="https://cdn.iconscout.com/icon/free/png-32/mail-1299-1100772.png"/>
+    </a>
   </span>
   &ensp;
   <span>
-    <a title="Github" href="https://github.com/caiocampos"><img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png"/></a>
+    <a title="Github" href="https://github.com/caiocampos">
+      <img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png"/>
+    </a>
   </span>
   &ensp;
   <span>
@@ -20,6 +26,15 @@
       <img src="https://profile.codersrank.io/static/favicon-32x32.png"/>
     </a>
   </span>
+</div>
+
+<div align="center">
+  <a title="Snake Animation" href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/caiocampos/CaioCampos/blob/snake/github-snake-dark.svg">
+      <img src="https://github.com/caiocampos/CaioCampos/blob/snake/github-snake.svg">
+    </picture>
+  </a>
 </div>
 
 ---
@@ -75,26 +90,35 @@
 
 ---
 
-<div align="center">
-  <span>
-    &ensp;
-    <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/metrics/github-metrics.svg"/>
-    &ensp;
-  </span>
-  <span>
-    &ensp;
-    <img align="top" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Random-Stuff,Java-Random-Stuff,C-Random-Stuff&theme=tokyonight"/>
-    &ensp;
-  </span>
-</div>
-  
-<div align="center">
-  <img title="Skills chart" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23"/>
-</div>
+<details>
+  <summary>
+    <img src="https://cdn.iconscout.com/icon/free/png-64/chart-growth-1913955-1624750.png"/>
+  </summary>
 
-<div align="center">
-  <img title="Snake animation" src="https://github.com/caiocampos/CaioCampos/blob/snake/github-contribution-grid-snake.svg"/>
-</div>
+  <div align="center">
+    <span>
+      &ensp;
+      <a title="Metrics" href="https://github.com/marketplace/actions/metrics-embed">
+        <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/metrics/github-metrics.svg"/>
+      </a>
+      &ensp;
+    </span>
+    <span>
+      &ensp;
+      <a title="Top Languages" href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="top" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Random-Stuff,Java-Random-Stuff,C-Random-Stuff&theme=tokyonight"/>
+      </a>
+      &ensp;
+    </span>
+  </div>
+
+  <div align="center">
+    <a title="Skills chart" href="https://profile.codersrank.io/user/caiocampos">
+      <img title="Skills chart" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23"/>
+    </a>
+  </div>
+
+</details>
 
 <div align="center">
   <img src="https://github.com/github/docs/blob/main/assets/images/playground/loading.gif"/>
