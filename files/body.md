@@ -89,7 +89,7 @@
 </div>
   
 <div align="center">
-  <img title="Skills chart" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true"/>
+  <img title="Skills chart" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23"/>
 </div>
 
 <div align="center">
