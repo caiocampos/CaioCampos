@@ -92,7 +92,7 @@
 
 <details>
   <summary>
-    <img src="https://cdn.iconscout.com/icon/free/png-64/chart-growth-1913955-1624750.png"/>
+    <img title="Extra" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/infographic-management-732672.png"/>
   </summary>
 
   <div align="center">
