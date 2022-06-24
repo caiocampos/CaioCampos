@@ -9,7 +9,7 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 <div align="center">
   <span>
-    <a title="Linkedin" href="https://www.linkedin.com/in/caio-o-campos/"><img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png"/></a>
+    <a title="Linkedin" href="https://www.linkedin.com/in/caio-o-campos"><img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png"/></a>
   </span>
   &ensp;
   <span>
@@ -18,6 +18,12 @@ To know my projects, please visit the website: https://caiocampos.github.io
   &ensp;
   <span>
     <a title="Github" href="https://github.com/caiocampos"><img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png"/></a>
+  </span>
+  &ensp;
+  <span>
+    <a title="CodersRank" href="https://profile.codersrank.io/user/caiocampos">
+      <img src="https://profile.codersrank.io/static/favicon-32x32.png"/>
+    </a>
   </span>
 </div>
 
@@ -88,7 +94,7 @@ To know my projects, please visit the website: https://caiocampos.github.io
 </div>
   
 <div align="center">
-  <img title="Snake animation" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&branding=false&svg-height=100"/>
+  <img title="Snake animation" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true"/>
 </div>
 
 <div align="center">
