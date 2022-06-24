@@ -89,7 +89,7 @@
 </div>
   
 <div align="center">
-  <img title="Snake animation" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true"/>
+  <img title="Skills chart" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true"/>
 </div>
 
 <div align="center">
