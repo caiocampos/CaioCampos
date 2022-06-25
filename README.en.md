@@ -112,7 +112,10 @@ To know my projects, please visit the website: https://caiocampos.github.io
     <span>
       &ensp;
       <a title="Top Languages" href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="top" title="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Random-Stuff,Java-Random-Stuff,C-Random-Stuff&theme=tokyonight"/><!--
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Random-Stuff,Java-Random-Stuff,C-Random-Stuff&theme=tokyonight">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Random-Stuff,Java-Random-Stuff,C-Random-Stuff">
+        </picture><!--
    --></a>
       &ensp;
     </span>
