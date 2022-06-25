@@ -24,7 +24,7 @@
 
   <div align="center">
     <a title="Skills chart" href="https://profile.codersrank.io/user/caiocampos">
-      <img title="Skills chart" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23"/>
+      <img title="Skills chart" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/cr-skills-chart-widget.svg"/>
     </a>
   </div>
 
