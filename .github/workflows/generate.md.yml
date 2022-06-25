@@ -31,7 +31,7 @@ jobs:
            rm -rf ./out/files
            rm -f ./out/md.conf.json
     - name: Download Skills Chart
-      run: curl -o ./out/cr-skills-chart-widget.svg "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23"
+      run: curl -o ./out/cr-skills-chart-widget.svg "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23&branding=false&bg=%23fff5"
     - name: Run
       run: cargo run
     - name: Deploy
