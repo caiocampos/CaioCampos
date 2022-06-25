@@ -4,12 +4,12 @@
   "files": [
     {
       "name": "pt",
-      "inputs": ["intro.pt.md", "body.md"],
+      "inputs": ["intro.pt.md", "body.md", "infograph.pt.md", "trailer.md"],
       "output": "README.md"
     },
     {
       "name": "en",
-      "inputs": ["intro.en.md", "body.md"],
+      "inputs": ["intro.en.md", "body.md", "infograph.en.md", "trailer.md"],
       "output": "README.en.md"
     }
   ]
