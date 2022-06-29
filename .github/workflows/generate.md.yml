@@ -1,4 +1,4 @@
-name: Generate MDs
+name: Generate MDs (Rust)
 
 on:
   schedule:
