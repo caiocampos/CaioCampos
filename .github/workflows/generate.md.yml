@@ -10,7 +10,9 @@ env:
 
 jobs:
   build:
-
+    env:
+      SKILLS_CHART: "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23&branding=false&bg=%23fffc"
+      README_STATS: "https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Random-Stuff,Java-Random-Stuff,C-Random-Stuff"
     runs-on: ubuntu-latest
 
     steps:
@@ -32,12 +34,9 @@ jobs:
            rm -f ./out/md.conf.json
     - name: Download Charts
       run: |
-           curl -o ./out/cr-skills-chart-widget.svg \
-           "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23&branding=false&bg=%23fffc"
-           curl -o ./out/top-languages.svg \
-           "https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Random-Stuff,Java-Random-Stuff,C-Random-Stuff"
-           curl -o ./out/top-languages-dark.svg \
-           "https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&layout=default&hide=c,html,css,makefile&langs_count=8&exclude_repo=Random-Stuff,Java-Random-Stuff,C-Random-Stuff&theme=tokyonight"
+           curl -o ./out/cr-skills-chart-widget.svg "${{env.SKILLS_CHART}}"
+           curl -o ./out/top-languages.svg "${{env.README_STATS}}"
+           curl -o ./out/top-languages-dark.svg "${{env.README_STATS}}&theme=tokyonight"
     - name: Run
       run: cargo run
     - name: Deploy
