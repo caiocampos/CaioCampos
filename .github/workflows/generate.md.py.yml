@@ -38,9 +38,9 @@ jobs:
            rm -f ./out/md.conf.json
     - name: Download Charts
       run: |
-           curl -o ./out/cr-skills-chart-widget.svg "${{SKILLS_CHART}}"
-           curl -o ./out/top-languages.svg "${{README_STATS}}"
-           curl -o ./out/top-languages-dark.svg "${{README_STATS}}&theme=tokyonight"
+           curl -o ./out/cr-skills-chart-widget.svg "${{env.SKILLS_CHART}}"
+           curl -o ./out/top-languages.svg "${{env.README_STATS}}"
+           curl -o ./out/top-languages-dark.svg "${{env.README_STATS}}&theme=tokyonight"
     - name: Run
       run: python md_fuse.py
     - name: Deploy
