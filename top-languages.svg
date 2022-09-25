@@ -75,7 +75,7 @@
       <rect
           height="8"
           fill="#b07219"
-          rx="5" ry="5" x="0" y="0" 
+          rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
           width="27.14%"
       >
@@ -91,7 +91,7 @@
       <rect
           height="8"
           fill="#dea584"
-          rx="5" ry="5" x="0" y="0" 
+          rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
           width="19.15%"
       >
@@ -107,7 +107,7 @@
       <rect
           height="8"
           fill="#3178c6"
-          rx="5" ry="5" x="0" y="0" 
+          rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
           width="16.57%"
       >
@@ -123,7 +123,7 @@
       <rect
           height="8"
           fill="#178600"
-          rx="5" ry="5" x="0" y="0" 
+          rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
           width="13.35%"
       >
@@ -139,7 +139,7 @@
       <rect
           height="8"
           fill="#f1e05a"
-          rx="5" ry="5" x="0" y="0" 
+          rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
           width="12.33%"
       >
@@ -155,7 +155,7 @@
       <rect
           height="8"
           fill="#00ADD8"
-          rx="5" ry="5" x="0" y="0" 
+          rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
           width="4.54%"
       >
@@ -171,7 +171,7 @@
       <rect
           height="8"
           fill="#f34b7d"
-          rx="5" ry="5" x="0" y="0" 
+          rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
           width="4.16%"
       >
@@ -187,7 +187,7 @@
       <rect
           height="8"
           fill="#3572A5"
-          rx="5" ry="5" x="0" y="0" 
+          rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
           width="2.75%"
       >
