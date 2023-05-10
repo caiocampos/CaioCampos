@@ -10,25 +10,25 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 <div align="center">
   <span>
     <a title="Linkedin" href="https://www.linkedin.com/in/caio-o-campos">
-      <img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png"/><!--
+      <img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png" alt="Linkedin"/><!--
  --></a>
   </span>
   &ensp;
   <span>
-    <a title="E-Mail" href="mailto:d43ehh9ml@relay.firefox.com">
-      <img src="https://cdn.iconscout.com/icon/free/png-32/mail-1299-1100772.png"/><!--
+    <a title="E-mail" href="mailto:d43ehh9ml@relay.firefox.com">
+      <img src="https://cdn.iconscout.com/icon/free/png-32/mail-1299-1100772.png" alt="E-mail"/><!--
  --></a>
   </span>
   &ensp;
   <span>
     <a title="Github" href="https://github.com/caiocampos">
-      <img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png"/><!--
+      <img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png" alt="Github"/><!--
  --></a>
   </span>
   &ensp;
   <span>
     <a title="CodersRank" href="https://profile.codersrank.io/user/caiocampos">
-      <img src="https://profile.codersrank.io/static/favicon-32x32.png"/><!--
+      <img src="https://profile.codersrank.io/static/favicon-32x32.png" alt="CodersRank"/><!--
  --></a>
   </span>
 </div>
@@ -98,14 +98,14 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 <details>
   <summary>
     Infográfico
-    <img align="middle" title="Infográfico" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png"/>
+    <img align="middle" title="Infographic" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
   </summary>
 
   <div align="center">
     <span>
       &ensp;
       <a title="Metrics" href="https://github.com/marketplace/actions/metrics-embed">
-        <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/metrics/github-metrics.svg"/><!--
+        <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/metrics/github-metrics.svg" alt="Metrics"/><!--
    --></a>
       &ensp;
     </span>
@@ -114,7 +114,7 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
       <a title="Top Languages" href="https://github.com/anuraghazra/github-readme-stats">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/top-languages-dark.svg">
-          <img src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/top-languages.svg">
+          <img src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/top-languages.svg" alt="Top Languages">
         </picture><!--
    --></a>
       &ensp;
@@ -123,8 +123,8 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 
   <div align="center">
     <a title="Skills chart" href="https://profile.codersrank.io/user/caiocampos">
-      <img title="Skills chart" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/cr-skills-chart-widget.svg"/><!--
-   --></a>
+      <img title="Skills chart" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/cr-skills-chart-widget.svg"  alt="Skills chart"/><!--
+ --></a>
   </div>
 
 </details>
