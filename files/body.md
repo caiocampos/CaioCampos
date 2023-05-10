@@ -5,25 +5,25 @@
 <div align="center">
   <span>
     <a title="Linkedin" href="https://www.linkedin.com/in/caio-o-campos">
-      <img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png"/><!--
+      <img src="https://cdn.iconscout.com/icon/free/png-32/linkedin-208-916919.png" alt="Linkedin"/><!--
  --></a>
   </span>
   &ensp;
   <span>
-    <a title="E-Mail" href="mailto:d43ehh9ml@relay.firefox.com">
-      <img src="https://cdn.iconscout.com/icon/free/png-32/mail-1299-1100772.png"/><!--
+    <a title="E-mail" href="mailto:d43ehh9ml@relay.firefox.com">
+      <img src="https://cdn.iconscout.com/icon/free/png-32/mail-1299-1100772.png" alt="E-mail"/><!--
  --></a>
   </span>
   &ensp;
   <span>
     <a title="Github" href="https://github.com/caiocampos">
-      <img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png"/><!--
+      <img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png" alt="Github"/><!--
  --></a>
   </span>
   &ensp;
   <span>
     <a title="CodersRank" href="https://profile.codersrank.io/user/caiocampos">
-      <img src="https://profile.codersrank.io/static/favicon-32x32.png"/><!--
+      <img src="https://profile.codersrank.io/static/favicon-32x32.png" alt="CodersRank"/><!--
  --></a>
   </span>
 </div>
