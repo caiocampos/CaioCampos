@@ -230,8 +230,8 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="130.2" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="130.2" y="0" width="121.8" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="126" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="126" y="0" width="126" height="8" fill="#f1e05a"/>
                                         <rect mask="url(#languages-bar)" x="252" y="0" width="58.800000000000004" height="8" fill="#dea584"/>
                                         <rect mask="url(#languages-bar)" x="310.8" y="0" width="29.400000000000002" height="8" fill="#3572a5"/>
                                         <rect mask="url(#languages-bar)" x="340.20000000000005" y="0" width="25.2" height="8" fill="#b07219"/>
@@ -247,13 +247,13 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                JavaScript
+                                                TypeScript
                                             </div>
                                             <small>
-                                                <div>29.81%</div>
-                                                <div>31★</div>
+                                                <div>28.85%</div>
+                                                <div>30★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -309,13 +309,13 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TypeScript
+                                                JavaScript
                                             </div>
                                             <small>
-                                                <div>27.88%</div>
-                                                <div>29★</div>
+                                                <div>28.85%</div>
+                                                <div>30★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -862,7 +862,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.72m out of 400m repositories</span>
+                                    <span class="gh">ranked 2.67m out of 400m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -949,7 +949,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.75m out of 400m repositories</span>
+                                    <span class="gh">ranked 4.70m out of 400m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
