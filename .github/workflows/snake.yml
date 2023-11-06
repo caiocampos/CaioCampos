@@ -10,7 +10,7 @@ jobs:
     name: Jobs to update files
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         id: snake-svg
         with:
           github_user_name: caiocampos
