@@ -49,6 +49,8 @@ To know my projects, please visit the website: https://caiocampos.github.io
   <img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img title="React" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img title="React Native" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img title="Next.js" alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
+  <img title="Gatsby" alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
   <img title="MobX" alt="MobX" src="https://img.shields.io/badge/MobX-EEE?style=for-the-badge&logo=mobx&logoColor=E25F18" />
   <img title="Redux" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img title="React Router" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -90,7 +92,6 @@ To know my projects, please visit the website: https://caiocampos.github.io
   <img title="Markdown" alt="Markdown" src="https://img.shields.io/badge/Markdown-2F9FE5?style=for-the-badge&logo=markdown&logoColor=white" />
   <img title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=EC912D" />
   <img title="Azure" alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img title="heroku" alt="heroku" src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
 ---
