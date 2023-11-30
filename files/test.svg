@@ -1,8 +1,12 @@
-<svg width="100" height="100">
- <switch transform="translate(100,200)">
-  <text systemLanguage="en">Population pyramid of Russia (2010)</text>
-  <text systemLanguage="de">Alterspyramide von Russland (2010)</text>
-  <text systemLanguage="ru">Половозрастная диаграмма России (2010)</text>
-  <text>Population pyramid of Russia (2010)</text>
+<svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 600 30"
+      style="background-color: #fffc"
+    >
+ <switch transform="translate(10,20)">
+  <text systemLanguage="en">I'm Caio, I work at Sysmap as software developer.</text>
+  <text systemLanguage="pt">Eu sou o Caio, trabalho na Sysmap como desenvolvedor de software.</text>
+  <text systemLanguage="es">Soy Caio, trabajo en Sysmap como desarrollador de software.</text>
+  <text>I'm Caio, I work at Sysmap as software developer.</text>
  </switch>
 </svg>
