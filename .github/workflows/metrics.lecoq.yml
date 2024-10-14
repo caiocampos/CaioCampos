@@ -25,3 +25,4 @@ jobs:
           plugin_starlists_limit_languages: 10
           plugin_starlists_limit_repositories: 0
           plugin_starlists_only: stack
+          config_padding: 0, 8 + 25%
