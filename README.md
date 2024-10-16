@@ -4,7 +4,7 @@ Eu sou o Caio, trabalho na Sysmap como desenvolvedor de software.
 
 Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.io
 
-*Read this in other languages: [English](README.en.md), [Português](README.md).*
+*Read this in other languages: [English](README.en.md), [Português](README.md), [Español](README.es.md).*
 
 
 <div align="center">
@@ -110,7 +110,7 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 <details>
   <summary>
     Infográfico
-    <img align="middle" title="Infographic" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
+    <img align="middle" title="Infográfico" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infográfico"/>
   </summary>
 
   <div align="center">

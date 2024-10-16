@@ -1,8 +1,8 @@
-<h1 align="center">Hi there :wave:</h1>
+<h1 align="center">Hola :wave:</h1>
 
-I'm Caio, I work at Sysmap as software developer.
+Soy Caio, trabajo en Sysmap como desarrollador de software.
 
-To know my projects, please visit the website: https://caiocampos.github.io
+Para ver mis proyectos, por favor visite el sitio web: https://caiocampos.github.io
 
 *Read this in other languages: [English](README.en.md), [Português](README.md), [Español](README.es.md).*
 
@@ -109,8 +109,8 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 <details>
   <summary>
-    Infographic
-    <img align="middle" title="Infographic" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
+    Infografía
+    <img align="middle" title="Infografía" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infografía"/>
   </summary>
 
   <div align="center">
