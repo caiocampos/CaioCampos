@@ -2,7 +2,7 @@
 <details>
   <summary>
     Infográfico
-    <img align="middle" title="Infographic" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
+    <img align="middle" title="Infográfico" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infográfico"/>
   </summary>
 
   <div align="center">
