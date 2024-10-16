@@ -11,6 +11,11 @@
       "name": "en",
       "inputs": ["intro.en.md", "body.md", "infograph.en.md", "trailer.md"],
       "output": "README.en.md"
+    },
+    {
+      "name": "es",
+      "inputs": ["intro.es.md", "body.md", "infograph.es.md", "trailer.md"],
+      "output": "README.es.md"
     }
   ]
 }
