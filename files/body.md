@@ -1,5 +1,5 @@
 
-*Read this in other languages: [English](README.en.md), [Português](README.md).*
+*Read this in other languages: [English](README.en.md), [Português](README.md), [Español](README.es.md).*
 
 
 <div align="center">
