@@ -1,8 +1,8 @@
 name: Wake-up servers
 
 on:
-  schedule:
-    - cron: "1/5 * * * *"
+ #schedule:
+   #- cron: "1/5 * * * *"
   workflow_dispatch:
 
 jobs:
