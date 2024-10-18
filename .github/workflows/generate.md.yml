@@ -13,7 +13,7 @@ jobs:
     env:
       SKILLS_CHART: "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23&branding=false&bg=%23fffc&padding=15"
       README_STATS: "https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&hide=html,css&langs_count=8&exclude_repo=Java-Random-Stuff,C-Random-Stuff,GLAE,Opcao-MpC"
-      VERSION_WATERMARK: "\n[comment]: # (version: $(date +'%Y%m%d%H%M%S'))"
+      COLON: ":"
     runs-on: ubuntu-latest
 
     steps:
@@ -34,7 +34,7 @@ jobs:
            rm -rf ./out/files
            rm -f ./out/md.conf.json
     - name: Add version watermark
-      run: echo -e $VERSION_WATERMARK >> ./files/trailer.md
+      run: echo -e "\n[comment]$COLON # (version$COLON $(date +'%Y%m%d%H%M%S'))" >> ./files/trailer.md
     - name: Download Charts
       run: |
            curl -o ./out/cr-skills-chart-widget.svg "${{env.SKILLS_CHART}}"
