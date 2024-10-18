@@ -144,3 +144,4 @@ To know my projects, please visit the website: https://caiocampos.github.io
 <div align="center">
   <img src="https://github.com/caiocampos/CaioCampos/blob/base/files/animated.svg" width="500" height="50"/>
 </div>
+[comment]: # (version: $(date +'%Y%m%d%H%M%S'))
