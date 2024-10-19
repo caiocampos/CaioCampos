@@ -145,4 +145,4 @@ Para ver mis proyectos, por favor visite el sitio web: https://caiocampos.github
   <img src="https://github.com/caiocampos/CaioCampos/blob/base/files/animated.svg" width="500" height="50"/>
 </div>
 
-[comment]: # (version: 20241019191732)
+[comment]: # (version: 20241019222121)
