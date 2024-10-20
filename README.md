@@ -110,7 +110,7 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 <details>
   <summary>
     Infográfico
-    <img align="middle" title="Infográfico" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infográfico"/>
+    <img align="middle" title="Infográfico" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
   </summary>
 
   <div align="center">
@@ -145,4 +145,4 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
   <img src="https://github.com/caiocampos/CaioCampos/blob/base/files/animated.svg" />
 </div>
 
-[comment]: # (version: 20241020222120)
+[comment]: # (version: 20241020225716)
