@@ -142,7 +142,7 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 </details>
 
 <div align="center">
-  <img src="https://github.com/caiocampos/CaioCampos/blob/base/files/animated.svg" width="500" height="50"/>
+  <img src="https://github.com/caiocampos/CaioCampos/blob/base/files/animated.svg" />
 </div>
 
-[comment]: # (version: 20241020014327)
+[comment]: # (version: 20241020141514)
