@@ -23,16 +23,19 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
     - name: Checkout md-fuse-py
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         persist-credentials: false
         repository: caiocampos/md-fuse-py
     - name: Checkout base files
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         persist-credentials: false
         ref: base
         path: out
+        sparse-checkout: |
+          files
+          md.conf.json
     - name: Organize folders
       run: |
            cp -r ./out/* ./
