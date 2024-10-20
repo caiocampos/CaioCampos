@@ -19,16 +19,19 @@ jobs:
 
     steps:
     - name: Checkout md-fuse
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         persist-credentials: false
         repository: caiocampos/md-fuse
     - name: Checkout base files
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         persist-credentials: false
-        ref: base
+        repository: caiocampos/readme-base
         path: out
+        sparse-checkout: |
+          files
+          md.conf.json
     - name: Organize folders
       run: |
            cp -r ./out/* ./
