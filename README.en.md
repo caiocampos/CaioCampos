@@ -145,4 +145,4 @@ To know my projects, please visit the website: https://caiocampos.github.io
   <img src="https://github.com/caiocampos/CaioCampos/blob/base/files/animated.svg" />
 </div>
 
-[comment]: # (version: 20241020212301)
+[comment]: # (version: 20241020212605)
