@@ -31,7 +31,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         persist-credentials: false
-        ref: base
+        repository: caiocampos/readme-base
         path: out
         sparse-checkout: |
           files
