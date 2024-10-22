@@ -47,12 +47,10 @@ jobs:
            curl -o ./out/top-languages-dark.svg "${{env.README_STATS}}&theme=tokyonight"
     - name: Sync
       run: rye sync
-    - name: Add version variable
-      run: export VERSION=$(date +'%Y%m%d%H%M%S')
-    - name: Show Version
-      run: echo $VERSION
     - name: Run
-      run: rye run fuse
+      run: |
+            export VERSION=$(date +'%Y%m%d%H%M%S')
+            rye run fuse
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:
