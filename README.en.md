@@ -33,15 +33,6 @@ To know my projects, please visit the website: https://caiocampos.github.io
   </span>
 </div>
 
-<div align="center">
-  <a title="Snake Animation" href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/caiocampos/CaioCampos/blob/snake/github-snake-dark.svg">
-      <img src="https://github.com/caiocampos/CaioCampos/blob/snake/github-snake.svg">
-    </picture>
-  </a>
-</div>
-
 ---
 
 <div align="justify">
@@ -77,6 +68,7 @@ To know my projects, please visit the website: https://caiocampos.github.io
   <img title="Styled-components" alt="Styled-components" src="https://img.shields.io/badge/styled--components-323232?style=for-the-badge&logo=styled-components&logoColor=DB78C7" />
   <img title="Angular" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img title="HTML5" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img title="SVG" alt="SVG" src="https://img.shields.io/badge/SVG-FFB13B.svg?&style=for-the-badge&logo=svg&logoColor=black" />
   <img title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img title="SASS" alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
@@ -106,6 +98,10 @@ To know my projects, please visit the website: https://caiocampos.github.io
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github.com/caiocampos/readme-base/blob/master/images/animated.svg" />
+</div>
 
 <details>
   <summary>
@@ -142,7 +138,12 @@ To know my projects, please visit the website: https://caiocampos.github.io
 </details>
 
 <div align="center">
-  <img src="https://github.com/caiocampos/readme-base/blob/master/files/animated.svg" />
+  <a title="Snake Animation" href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/caiocampos/CaioCampos/blob/snake/github-snake-dark.svg">
+      <img src="https://github.com/caiocampos/CaioCampos/blob/snake/github-snake.svg">
+    </picture>
+  </a>
 </div>
 
-[comment]: # (version: 20241021221345)
+[comment]: # (version: )
