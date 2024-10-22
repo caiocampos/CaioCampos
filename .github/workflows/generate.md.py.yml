@@ -40,8 +40,6 @@ jobs:
            cp -r ./out/* ./
            rm -rf ./out/files
            rm -f ./out/md.conf.json
-    - name: Add version variable
-      run: export VERSION=$(date +'%Y%m%d%H%M%S')
     - name: Download Charts
       run: |
            curl -o ./out/cr-skills-chart-widget.svg "${{env.SKILLS_CHART}}"
@@ -49,6 +47,8 @@ jobs:
            curl -o ./out/top-languages-dark.svg "${{env.README_STATS}}&theme=tokyonight"
     - name: Sync
       run: rye sync
+    - name: Add version variable
+      run: export VERSION=$(date +'%Y%m%d%H%M%S')
     - name: Show Version
       run: echo $VERSION
     - name: Run
