@@ -49,8 +49,8 @@ jobs:
       run: rye sync
     - name: Run
       run: |
-            export VERSION=$(date +'%Y%m%d%H%M%S')
-            rye run fuse
+           export VERSION=$(date +'%Y%m%d%H%M%S')
+           rye run fuse
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:
