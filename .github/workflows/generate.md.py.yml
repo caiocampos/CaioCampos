@@ -49,6 +49,8 @@ jobs:
            curl -o ./out/top-languages-dark.svg "${{env.README_STATS}}&theme=tokyonight"
     - name: Sync
       run: rye sync
+    - name: Show Version
+      run: echo $VERSION
     - name: Run
       run: rye run fuse
     - name: Deploy
