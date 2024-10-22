@@ -1,8 +1,8 @@
 name: Generate MDs (Python)
 
 on:
- # schedule:
-  #  - cron: "0 17,19,22 * * *"
+  schedule:
+    - cron: "0 17,19,22 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,18 +10,17 @@ jobs:
     env:
       SKILLS_CHART: "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=caiocampos&sort-by-score=true&skills=JavaScript,TypeScript,Rust,Go,Java,Python,C%2b%2b,C,C%23&branding=false&bg=%23fffc&padding=15"
       README_STATS: "https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&hide=html,css&langs_count=8&exclude_repo=Java-Random-Stuff,C-Random-Stuff,GLAE,Opcao-MpC"
-      COLON: ":"
-      HASH: "#"
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
-        python-version: ["3.13"]
+        python-version: ["3.12"]
     steps:
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v5
+    - name: Install the latest version of rye
+      uses: eifinger/setup-rye@v4
       with:
-        python-version: ${{ matrix.python-version }}
+        enable-cache: true
+        cache-prefix: ${{ matrix.python-version }}
     - name: Checkout md-fuse-py
       uses: actions/checkout@v4
       with:
@@ -41,15 +40,17 @@ jobs:
            cp -r ./out/* ./
            rm -rf ./out/files
            rm -f ./out/md.conf.json
-    - name: Add version watermark
-      run: echo -e "\n[comment]$COLON $HASH (version$COLON $(date +'%Y%m%d%H%M%S'))" >> ./files/trailer.md
+    - name: Add version variable
+      run: export VERSION=$(date +'%Y%m%d%H%M%S')
     - name: Download Charts
       run: |
            curl -o ./out/cr-skills-chart-widget.svg "${{env.SKILLS_CHART}}"
            curl -o ./out/top-languages.svg "${{env.README_STATS}}"
            curl -o ./out/top-languages-dark.svg "${{env.README_STATS}}&theme=tokyonight"
+    - name: Sync
+      run: rye sync
     - name: Run
-      run: python md_fuse.py
+      run: rye run fuse
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:
