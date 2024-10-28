@@ -103,7 +103,7 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
   <img src="https://github.com/caiocampos/readme-base/blob/master/images/animated.svg" />
 </div>
 
-<details>
+<details open>
   <summary>
     Infografía
     <img align="middle" title="Infografía" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
@@ -146,4 +146,8 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
   </a>
 </div>
 
-[comment]: # (version: 20241028191527)
+Construido usando:
+[MD-Fuse](https://github.com/caiocampos/md-fuse)
+[MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
+
+[comment]: # (version: 20241028213248)
