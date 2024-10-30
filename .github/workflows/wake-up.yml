@@ -1,8 +1,8 @@
 name: Wake-up servers
 
 on:
- #schedule:
-   #- cron: "1/5 * * * *"
+  schedule:
+    - cron: "1/5 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,9 @@ jobs:
       - name: HTTP Requests
         run: >
              for i in `seq 1 4`; do (
-                 echo "response shrtr -> $(curl -s https://shrtr.caiocampos.repl.co/@/count)";
-                 echo "response blog-posts -> $(curl -s https://blog-posts-server.caiocampos.repl.co/authors/count)";
-                 echo "response asteroid-score -> $(curl -s https://asteroid-score.caiocampos.repl.co/score/count)";
+                 echo "response shrtr -> $(curl -s https://shrtr.onrender.com/@/count)";
+                 echo "response blog-posts -> $(curl -s https://blog-posts-enji.onrender.com/authors/count)";
+                 echo "response asteroid-score -> $(curl -s https://asteroid-score.onrender.com.repl.co/score/count)";
                  SLEEP_TIME=$((50 + RANDOM % 31));
                  echo "sleeping ${SLEEP_TIME}s";
                  sleep $SLEEP_TIME;
