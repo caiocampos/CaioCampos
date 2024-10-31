@@ -2,7 +2,7 @@ name: Generate MDs (Python)
 
 on:
   schedule:
-    - cron: "0 17,19,22 * * *"
+    - cron: "0 17,20,23 * * *"
   workflow_dispatch:
 
 jobs:
