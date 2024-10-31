@@ -15,7 +15,7 @@ jobs:
              for i in `seq 1 4`; do (
                  echo "response shrtr -> $(curl -s https://shrtr.onrender.com/@/count)";
                  echo "response blog-posts -> $(curl -s https://blog-posts-enji.onrender.com/authors/count)";
-                 echo "response asteroid-score -> $(curl -s https://asteroid-score.onrender.com.repl.co/score/count)";
+                 echo "response asteroid-score -> $(curl -s https://asteroid-score.onrender.com/score/count)";
                  SLEEP_TIME=$((50 + RANDOM % 31));
                  echo "sleeping ${SLEEP_TIME}s";
                  sleep $SLEEP_TIME;
