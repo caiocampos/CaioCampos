@@ -17,13 +17,16 @@ jobs:
                  echo "sleeping ${SLEEP_TIME}s";
                  sleep $SLEEP_TIME;
              }
-             for i in `seq 1 $((1 + RANDOM % 4))``; do (
-                 echo "response shrtr -> $(curl -s https://shrtr.onrender.com/@/count)";
-                 sleep_random;
-                 echo "response blog-posts -> $(curl -s https://blog-posts-enji.onrender.com/authors/count)";
-                 sleep_random;
-                 echo "response asteroid-score -> $(curl -s https://asteroid-score.onrender.com/score/count)";
-                 sleep_random;
-                 );
-             done
+             call_servers () {
+                 for i in `seq 1 $((1 + RANDOM % 4))``; do (
+                     echo "response shrtr -> $(curl -s https://shrtr.onrender.com/@/count)";
+                     sleep_random;
+                     echo "response blog-posts -> $(curl -s https://blog-posts-enji.onrender.com/authors/count)";
+                     sleep_random;
+                     echo "response asteroid-score -> $(curl -s https://asteroid-score.onrender.com/score/count)";
+                     sleep_random;
+                     );
+                 done
+             }
+             call_servers
         shell: bash
