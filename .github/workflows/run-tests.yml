@@ -28,7 +28,7 @@ jobs:
                      sleep_random;
                      );
                  done
-                 return "success"
+                 return "success";
              };
              
              result="$(test_servers)";
