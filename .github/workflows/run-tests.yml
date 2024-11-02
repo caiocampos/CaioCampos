@@ -27,7 +27,8 @@ jobs:
                      sleep_random;
                      );
                  done
+                 return "success"
              }
-             call_servers
-             
+             result=$(call_servers);
+             echo $result;
         shell: bash
