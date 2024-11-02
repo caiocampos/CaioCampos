@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create script
-        run: echo """
+        run: echo '''
              sleep_random () {
                  SLEEP_TIME=$((10 + RANDOM % 21));
                  echo "sleeping ${SLEEP_TIME}s";
@@ -29,7 +29,7 @@ jobs:
                  done
              };
              test_servers;
-             """ > test.sh
+             ''' > test.sh
         shell: bash
       - name: Run script
         run: ./test.sh
