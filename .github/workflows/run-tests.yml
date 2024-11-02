@@ -17,7 +17,7 @@ jobs:
                  echo "sleeping ${SLEEP_TIME}s";
                  sleep $SLEEP_TIME;
              }
-             call_servers () {
+             test_servers () {
                  for i in `seq 1 $((1 + RANDOM % 4))``; do (
                      echo "response shrtr -> $(curl -s https://shrtr.onrender.com/@/count)";
                      sleep_random;
@@ -29,6 +29,6 @@ jobs:
                  done
                  return "success"
              }
-             result=$(call_servers);
+             result="$(test_servers)";
              echo $result;
         shell: bash
