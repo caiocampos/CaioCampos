@@ -10,14 +10,13 @@ jobs:
     name: Jobs to test servers
     runs-on: ubuntu-latest
     steps:
-      - name: HTTP Requests
-        run: >
+      - name: Create script
+        run: echo """
              sleep_random () {
                  SLEEP_TIME=$((10 + RANDOM % 21));
                  echo "sleeping ${SLEEP_TIME}s";
                  sleep $SLEEP_TIME;
              };
-             
              test_servers () {
                  for i in `seq 1 $((1 + RANDOM % 4))`; do (
                      echo "response shrtr -> $(curl -s https://shrtr.onrender.com/@/count)";
@@ -28,9 +27,9 @@ jobs:
                      sleep_random;
                      );
                  done
-                 return "success";
              };
-             
-             result="$(test_servers)";
-             echo $result;
+             test_servers;
+             """ > test.sh
         shell: bash
+      - name: Run script
+        run: ./test.sh
