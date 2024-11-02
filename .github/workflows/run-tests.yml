@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Jobs to wake-up servers
+    name: Jobs to test servers
     runs-on: ubuntu-latest
     steps:
       - name: HTTP Requests
