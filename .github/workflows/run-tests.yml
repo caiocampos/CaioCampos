@@ -32,4 +32,4 @@ jobs:
              ''' > test.sh
         shell: bash
       - name: Run script
-        run: ./test.sh
+        run: bash test.sh
