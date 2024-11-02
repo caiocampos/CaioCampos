@@ -19,7 +19,7 @@ jobs:
              };
              
              test_servers () {
-                 for i in `seq 1 $((1 + RANDOM % 4))``; do (
+                 for i in `seq 1 $((1 + RANDOM % 4))`; do (
                      echo "response shrtr -> $(curl -s https://shrtr.onrender.com/@/count)";
                      sleep_random;
                      echo "response blog-posts -> $(curl -s https://blog-posts-enji.onrender.com/authors/count)";
