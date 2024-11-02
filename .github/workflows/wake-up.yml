@@ -28,5 +28,5 @@ jobs:
                      );
                  done
              }
-             call_servers
+             call_servers;
         shell: bash
