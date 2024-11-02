@@ -1,4 +1,4 @@
-name: Wake-up servers
+name: Run Tests
 
 on:
   schedule:
