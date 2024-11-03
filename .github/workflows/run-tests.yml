@@ -11,25 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create script
-        run: echo '''
-             sleep_random () {
-                 SLEEP_TIME=$((10 + RANDOM % 21));
-                 echo "sleeping ${SLEEP_TIME}s";
-                 sleep $SLEEP_TIME;
-             };
-             test_servers () {
-                 for i in `seq 1 $((1 + RANDOM % 4))`; do (
-                     echo "response shrtr -> $(curl -s https://shrtr.onrender.com/@/count)";
-                     sleep_random;
-                     echo "response blog-posts -> $(curl -s https://blog-posts-enji.onrender.com/authors/count)";
-                     sleep_random;
-                     echo "response asteroid-score -> $(curl -s https://asteroid-score.onrender.com/score/count)";
-                     sleep_random;
-                     );
-                 done
-             };
-             test_servers;
-             ''' > test.sh
+        run: curl -o test-servers.sh https://github.com/caiocampos/modular-server/blob/master/scripts/test-servers.sh
         shell: bash
       - name: Run script
-        run: bash test.sh
+        run: bash test-servers.sh
