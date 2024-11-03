@@ -12,7 +12,5 @@ jobs:
     steps:
       - name: Create script
         run: curl -O https://raw.githubusercontent.com/caiocampos/modular-server/refs/heads/master/scripts/test-servers.sh
-      - run: chmod +x test-servers.sh
-      - run: echo "$(<test-servers.sh )"
       - name: Run script
         run: bash test-servers.sh
