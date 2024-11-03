@@ -15,5 +15,6 @@ jobs:
         shell: bash
       - name: Run script
         run: |
-             ls .
+             ls
              bash ./test-servers.sh
+        shell: bash
