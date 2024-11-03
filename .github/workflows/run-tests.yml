@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create script
-        run: curl -o test-servers.sh https://github.com/caiocampos/modular-server/blob/master/scripts/test-servers.sh
+        run: curl -o test-servers.sh https://github.com/caiocampos/modular-server/raw/refs/heads/master/scripts/test-servers.sh
         shell: bash
       - name: Run script
         run: bash test-servers.sh
