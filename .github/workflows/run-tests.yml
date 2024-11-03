@@ -14,4 +14,5 @@ jobs:
         run: curl -o test-servers.sh https://github.com/caiocampos/modular-server/raw/refs/heads/master/scripts/test-servers.sh
         shell: bash
       - name: Run script
-        run: bash test-servers.sh
+        run: ls .
+             bash ./test-servers.sh
