@@ -1,10 +1,10 @@
-<h1 align="center">Olá :wave:</h1>
+<h1 align="center">Hi there :wave:</h1>
 
-Eu sou o Caio, trabalho na Sysmap como desenvolvedor de software.
+I'm Caio, I work at Sysmap as software developer.
 
-Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.io
+To know my projects, please visit the website: https://caiocampos.github.io
 
-*Read this in other languages: [English](README.en.md), [Português](README.md), [Español](README.es.md).*
+*Read this in other languages: [English](README.en.md), [Português](README.pt.md), [Español](README.es.md).*
 
 
 <div align="center">
@@ -105,8 +105,8 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 
 <details open>
   <summary>
-    Infográfico
-    <img align="middle" title="Infográfico" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
+    Infographic
+    <img align="middle" title="Infographic" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
   </summary>
 
   <div align="center">
@@ -146,8 +146,8 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
   </a>
 </div>
 
-Montado utilizando:
+Built with:
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-[comment]: # (version: 20241102231803)
+[comment]: # (version: 20241103020623)

@@ -1,8 +1,8 @@
-<h1 align="center">Hola :wave:</h1>
+<h1 align="center">Olá :wave:</h1>
 
-Soy Caio, trabajo en Sysmap como desarrollador de software.
+Eu sou o Caio, trabalho na Sysmap como desenvolvedor de software.
 
-Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.github.io
+Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.io
 
 *Read this in other languages: [English](README.en.md), [Português](README.pt.md), [Español](README.es.md).*
 
@@ -105,8 +105,8 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 
 <details open>
   <summary>
-    Infografía
-    <img align="middle" title="Infografía" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
+    Infográfico
+    <img align="middle" title="Infográfico" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
   </summary>
 
   <div align="center">
@@ -146,7 +146,7 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
   </a>
 </div>
 
-Construido usando:
+Montado utilizando:
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
