@@ -40,12 +40,13 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
   <img title="C++" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img title="C#" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img title="Dart" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img title="Golang" alt="Golang" src="https://img.shields.io/badge/GOLANG-007D9C.svg?&style=for-the-badge&logo=go&logoColor=white" />
-  <img title="Java" alt="Java" src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img title="Golang" alt="Golang" src="https://img.shields.io/badge/GOLANG-007D9C?&style=for-the-badge&logo=go&logoColor=white" />
+  <img title="Java" alt="Java" src="https://img.shields.io/badge/JAVA-007396?&style=for-the-badge&logo=openjdk&logoColor=white" />
   <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img title="Kotlin" alt="Kotlin" src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img title="Lua" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img title="PHP" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img title="Python" alt="Python" src="https://img.shields.io/badge/PYTHON-1E415E.svg?&style=for-the-badge&logo=python&logoColor=FFE56B" />
+  <img title="Python" alt="Python" src="https://img.shields.io/badge/PYTHON-1E415E?&style=for-the-badge&logo=python&logoColor=FFE56B" />
   <img title="Rust" alt="Rust" src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white" />
   <img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
@@ -53,29 +54,28 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 ---
 
 <div align="justify">
-  <img title="Node.js" alt="Node.js" src="https://img.shields.io/badge/NODE.JS-393.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img title="NestJS" alt="NestJS" src="https://img.shields.io/badge/NestJS-000.svg?&style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img title="Node.js" alt="Node.js" src="https://img.shields.io/badge/NODE.JS-393?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img title="NestJS" alt="NestJS" src="https://img.shields.io/badge/NestJS-000?&style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   <img title="Express.js" alt="Express.js" src="https://img.shields.io/badge/Express.js-EEE?style=for-the-badge&logo=express&logoColor=black" />
   <img title="Spring" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img title="React" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img title="React Native" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img title="Flutter" alt="Flutter" src="https://img.shields.io/badge/Flutter-EEE?style=for-the-badge&logo=flutter&logoColor=02569B" />
   <img title="Next.js" alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
-  <img title="Gatsby" alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img title="Gatsby" alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
   <img title="MobX" alt="MobX" src="https://img.shields.io/badge/MobX-EEE?style=for-the-badge&logo=mobx&logoColor=E25F18" />
   <img title="Redux" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img title="React Router" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img title="Styled-components" alt="Styled-components" src="https://img.shields.io/badge/styled--components-323232?style=for-the-badge&logo=styled-components&logoColor=DB78C7" />
   <img title="Angular" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img title="HTML5" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img title="SVG" alt="SVG" src="https://img.shields.io/badge/SVG-FFB13B.svg?&style=for-the-badge&logo=svg&logoColor=black" />
-  <img title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img title="HTML5" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img title="SVG" alt="SVG" src="https://img.shields.io/badge/SVG-FFB13B?&style=for-the-badge&logo=svg&logoColor=black" />
+  <img title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
   <img title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img title="SASS" alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+  <img title="SASS" alt="SASS" src="https://img.shields.io/badge/SASS-CC6699?&style=for-the-badge&logo=sass&logoColor=white" />
   <img title="Material-UI" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-212121?style=for-the-badge&logo=mui&logoColor=00B0FF" />
   <img title="Ant Design" alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-EEE?style=for-the-badge&logo=ant-design&logoColor=0170FE" />
   <img title="Bootstrap" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img title="Postgres" alt="Postgres" src="https://img.shields.io/badge/POSTGRES-316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img title="Postgres" alt="Postgres" src="https://img.shields.io/badge/POSTGRES-316192?&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img title="SQLite" alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img title="MongoDB" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img title="DynamoDB" alt="MongoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
@@ -85,16 +85,19 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
   <img title="Docker" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img title="Shell" alt="Shell" src="https://img.shields.io/badge/Shell-000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img title="Bash" alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-  <img title="VSCode" alt="VSCode" src="https://img.shields.io/badge/vscode-2C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=0066B8" />
+  <img title="VSCode" alt="VSCode" src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=0066B8" />
   <img title="Eclipse" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img title="Git" alt="Git" src="https://img.shields.io/badge/GIT-EEE.svg?&style=for-the-badge&logo=git&logoColor=F05033" />
-  <img title="GitHub" alt="GitHub" src="https://img.shields.io/badge/GITHUB-9CDAF0.svg?&style=for-the-badge&logo=github&logoColor=black" />
-  <img title="Github Actions" alt="Github Actions" src="https://img.shields.io/badge/GH_ACTIONS-333.svg?&style=for-the-badge&logo=github-actions&logoColor=2088FF" />
+  <img title="Git" alt="Git" src="https://img.shields.io/badge/GIT-EEE?&style=for-the-badge&logo=git&logoColor=F05033" />
+  <img title="GitHub" alt="GitHub" src="https://img.shields.io/badge/GITHUB-9CDAF0?&style=for-the-badge&logo=github&logoColor=black" />
+  <img title="Github Actions" alt="Github Actions" src="https://img.shields.io/badge/GH_ACTIONS-333?&style=for-the-badge&logo=github-actions&logoColor=2088FF" />
   <img title="Markdown" alt="Markdown" src="https://img.shields.io/badge/Markdown-2F9FE5?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=EC912D" />
+  <img title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=EC912D" />
   <img title="Azure" alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img title="Godot" alt="Godot" src="https://img.shields.io/badge/Godot-333639?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
   <img title="Unity" alt="Unity" src="https://img.shields.io/badge/Unity-EEE?style=for-the-badge&logo=unity&logoColor=black" />
+  <!-- 
+  <img title="Flutter" alt="Flutter" src="https://img.shields.io/badge/Flutter-EEE?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  -->
 </div>
 
 ---
@@ -150,4 +153,4 @@ Construido usando:
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-[comment]: # (version: 20241128231728)
+[comment]: # (version: 20241129022727)
