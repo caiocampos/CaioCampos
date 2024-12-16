@@ -76,6 +76,7 @@ To know my projects, please visit the website: https://caiocampos.github.io
   <img title="Material-UI" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-212121?style=for-the-badge&logo=mui&logoColor=00B0FF" />
   <img title="Ant Design" alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-EEE?style=for-the-badge&logo=ant-design&logoColor=0170FE" />
   <img title="Bootstrap" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img title="Nativewind" alt="Nativewind" src="https://img.shields.io/badge/Nativewind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img title="Postgres" alt="Postgres" src="https://img.shields.io/badge/POSTGRES-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img title="Oracle" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -159,4 +160,4 @@ Built with:
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-[comment]: # (version: 20241216223557)
+[comment]: # (version: 20241216224804)
