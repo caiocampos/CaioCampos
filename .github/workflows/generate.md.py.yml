@@ -21,6 +21,8 @@ jobs:
       with:
         enable-cache: true
         cache-prefix: ${{ matrix.python-version }}
+    - name: Pin python-version ${{ matrix.python-version }}
+      run: uv python pin ${{ matrix.python-version }}
     - name: Checkout md-fuse-py
       uses: actions/checkout@v4
       with:
