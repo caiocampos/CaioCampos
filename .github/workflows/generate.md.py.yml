@@ -16,8 +16,8 @@ jobs:
       matrix:
         python-version: ["3.12"]
     steps:
-    - name: Install the latest version of rye
-      uses: eifinger/setup-rye@v4
+    - name: Install the latest version of uv
+      uses: astral-sh/setup-uv@v5
       with:
         enable-cache: true
         cache-prefix: ${{ matrix.python-version }}
@@ -45,12 +45,12 @@ jobs:
            curl -o ./out/cr-skills-chart-widget.svg "${{env.SKILLS_CHART}}"
            curl -o ./out/top-languages.svg "${{env.README_STATS}}"
            curl -o ./out/top-languages-dark.svg "${{env.README_STATS}}&theme=tokyonight"
-    - name: Sync
-      run: rye sync
+    - name: Sync dependencies
+      run: uv sync
     - name: Run
       run: |
            export VERSION=$(date +'%Y%m%d%H%M%S')
-           rye run fuse
+           uv run fuse
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:
