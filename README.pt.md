@@ -139,12 +139,6 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
     </span>
   </div>
 
-  <div align="center">
-    <a title="Skills chart" href="https://profile.codersrank.io/user/caiocampos">
-      <img title="Skills chart" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/cr-skills-chart-widget.svg"  alt="Skills chart"/><!--
- --></a>
-  </div>
-
 </details>
 
 <div align="center">
@@ -160,4 +154,4 @@ Montado utilizando:
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-[comment]: # (version: 20250401082822)
+[comment]: # (version: 20250401213337)
