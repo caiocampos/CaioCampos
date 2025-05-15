@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: stalomeow/metrics@projects-v2 # lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest # stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: metrics
