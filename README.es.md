@@ -154,4 +154,4 @@ Construido usando:
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-[comment]: # (version: 20250615082643)
+[comment]: # (version: 20250615231740)
