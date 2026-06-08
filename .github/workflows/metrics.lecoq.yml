@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: gh-metrics/metrics@main
+      - uses: gh-metrics/metrics@v4
         with:
           filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,7 +24,7 @@ jobs:
           plugin_starlists_only: stack
           config_padding: 0, 8 + 25%
 
-      - uses: gh-metrics/metrics@main
+      - uses: gh-metrics/metrics@v4
         with:
           filename: metrics.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
