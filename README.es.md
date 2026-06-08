@@ -123,9 +123,8 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
     <span>
       &ensp;
       <a title="Metrics" href="https://github.com/marketplace/actions/metrics-embed">
-        <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/metrics/github-metrics.svg" alt="Metrics"/><!--
+        <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/metrics/metrics.base.svg" alt="Metrics"/><!--
    --></a>
-      &ensp;
     </span>
     <span>
       &ensp;
@@ -135,7 +134,12 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
           <img src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/top-languages.svg" alt="Top Languages">
         </picture><!--
    --></a>
+    </span>
+    <span>
       &ensp;
+      <a title="Metrics" href="https://github.com/marketplace/actions/metrics-embed">
+        <img align="top" title="Metrics" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/metrics/metrics.achievements.svg" alt="Metrics"/><!--
+   --></a>
     </span>
   </div>
 
@@ -154,4 +158,4 @@ Construido usando:
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-[comment]: # (version: 20260608190232)
+[comment]: # (version: 20260608190621)
