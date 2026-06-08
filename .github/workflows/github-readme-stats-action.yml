@@ -1,4 +1,4 @@
-name: Update README cards
+name: Generate top languages Chart
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: top-langs
           options:  ${{ env.README_STATS }}
           path: out/top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -24,7 +24,7 @@ jobs:
       - name: Generate stats card (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: top-langs
           options:   ${{ env.README_STATS }}&theme=tokyonight
           path: out/top-languages-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
