@@ -1,0 +1,38 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    env:
+      README_STATS: "https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&hide=html,css,scss,makefile&langs_count=10&exclude_repo=JVM-Random-Stuff,Zig-C-Random-Stuff,GLAE"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options:  ${{ env.README_STATS }}
+          path: out/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options:   ${{ env.README_STATS }}&theme=tokyonight
+          path: out/top-languages-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          folder: out
+          clean: false
