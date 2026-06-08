@@ -1,4 +1,4 @@
-name: Metrics
+name: Generate metrics
 on:
   schedule:
     - cron: "0 1,22 * * *"
