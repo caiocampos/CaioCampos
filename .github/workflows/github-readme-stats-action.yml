@@ -1,4 +1,4 @@
-name: Generate top languages Chart
+name: Generate top languages chart
 
 on:
   schedule:
