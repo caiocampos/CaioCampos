@@ -14,14 +14,14 @@ jobs:
         python-version: ["3.12"]
     steps:
     - name: Install the latest version of uv
-      uses: astral-sh/setup-uv@v8
+      uses: astral-sh/setup-uv@v8.2.0
       with:
         enable-cache: true
         cache-prefix: ${{ matrix.python-version }}
     - name: Pin python-version ${{ matrix.python-version }}
       run: uv python pin ${{ matrix.python-version }}
     - name: Checkout md-fuse-py
-      uses: actions/checkout@v8.2.0
+      uses: actions/checkout@v6
       with:
         persist-credentials: false
         repository: caiocampos/md-fuse-py
