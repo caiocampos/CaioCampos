@@ -21,7 +21,7 @@ jobs:
     - name: Pin python-version ${{ matrix.python-version }}
       run: uv python pin ${{ matrix.python-version }}
     - name: Checkout md-fuse-py
-      uses: actions/checkout@v6
+      uses: actions/checkout@v8.2.0
       with:
         persist-credentials: false
         repository: caiocampos/md-fuse-py
