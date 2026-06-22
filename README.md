@@ -74,6 +74,7 @@ To know my projects, please visit the website: https://caiocampos.github.io
   <img title="SASS" alt="SASS" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img title="Less" alt="Less" src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
   <img title="Material-UI" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-212121?style=for-the-badge&logo=mui&logoColor=00B0FF" />
+  <img title="SHADCN/UI" alt="SHADCN/UI" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img title="Ant Design" alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-EEE?style=for-the-badge&logo=ant-design&logoColor=0170FE" />
   <img title="Bootstrap" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img title="Nativewind" alt="Nativewind" src="https://img.shields.io/badge/Nativewind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
