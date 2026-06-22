@@ -25,12 +25,6 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
       <img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png" alt="Github"/><!--
  --></a>
   </span>
-  &ensp;
-  <span>
-    <a title="CodersRank" href="https://profile.codersrank.io/user/caiocampos">
-      <img src="https://profile.codersrank.io/static/favicon-32x32.png" alt="CodersRank"/><!--
- --></a>
-  </span>
 </div>
 
 ---
@@ -58,7 +52,7 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
   <img title="Azure" alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />
   <img title="Git" alt="Git" src="https://img.shields.io/badge/GIT-EEE?style=for-the-badge&logo=git&logoColor=F05033" />
   <img title="GitHub" alt="GitHub" src="https://img.shields.io/badge/GITHUB-9CDAF0?style=for-the-badge&logo=github&logoColor=black" />
-  <img title="Github Actions" alt="Github Actions" src="https://img.shields.io/badge/GH_ACTIONS-333?style=for-the-badge&logo=github-actions&logoColor=2088FF" />
+  <img title="Github Actions" alt="Github Actions" src="https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img title="Node.js" alt="Node.js" src="https://img.shields.io/badge/NODE.JS-393?style=for-the-badge&logo=node.js&logoColor=white" />
   <img title="NestJS" alt="NestJS" src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   <img title="Express.js" alt="Express.js" src="https://img.shields.io/badge/Express.js-EEE?style=for-the-badge&logo=express&logoColor=black" />
@@ -98,6 +92,10 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
   <img title="Bash" alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img title="VS Code" alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS_Code-0078d7?style=for-the-badge&logo=vsc&logoColor=white" />
   <img title="Eclipse" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img title="Claude" alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img title="Gemini" alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img title="Ollama" alt="Ollama" src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img title="Codecov" alt="Codecov" src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
   <img title="Markdown" alt="Markdown" src="https://img.shields.io/badge/Markdown-2F9FE5?style=for-the-badge&logo=markdown&logoColor=white" />
   <img title="Godot" alt="Godot" src="https://img.shields.io/badge/Godot-333639?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
   <img title="Unity" alt="Unity" src="https://img.shields.io/badge/Unity-EEE?style=for-the-badge&logo=unity&logoColor=black" />
@@ -158,4 +156,4 @@ Construido usando:
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-[comment]: # (version: 20260622215733)
+[comment]: # (version: 20260622221516)
