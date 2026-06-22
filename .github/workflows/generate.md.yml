@@ -13,11 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout md-fuse
-      uses: actions/checkout@v6
-      with:
-        persist-credentials: false
-        repository: caiocampos/md-fuse
     - name: Checkout base files
       uses: actions/checkout@v6
       with:
@@ -32,10 +27,16 @@ jobs:
            cp -r ./out/* ./
            rm -rf ./out/files
            rm -f ./out/md.conf.json
+    - name: Download Batch Binary
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+           gh release download -R caiocampos/md-fuse -p "md_fuse"
+           chmod +x md_fuse
     - name: Run
       run: |
            export VERSION=$(date +'%Y%m%d%H%M%S')
-           cargo run
+           ./md_fuse
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:
