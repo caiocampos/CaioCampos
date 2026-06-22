@@ -2,7 +2,7 @@ name: Generate MDs (Rust)
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 5,8,23 * * *"
   workflow_dispatch:
 
 env:
