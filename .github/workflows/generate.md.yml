@@ -13,6 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout md-fuse
+      uses: actions/checkout@v6
+      with:
+        persist-credentials: false
+        repository: caiocampos/md-fuse
     - name: Checkout base files
       uses: actions/checkout@v6
       with:
