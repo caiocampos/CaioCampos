@@ -54,6 +54,11 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 ---
 
 <div align="justify">
+  <img title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-FFF?style=for-the-badge&logo=data:image/png;base64,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&logoColor=EC912D" />
+  <img title="Azure" alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />
+  <img title="Git" alt="Git" src="https://img.shields.io/badge/GIT-EEE?style=for-the-badge&logo=git&logoColor=F05033" />
+  <img title="GitHub" alt="GitHub" src="https://img.shields.io/badge/GITHUB-9CDAF0?style=for-the-badge&logo=github&logoColor=black" />
+  <img title="Github Actions" alt="Github Actions" src="https://img.shields.io/badge/GH_ACTIONS-333?style=for-the-badge&logo=github-actions&logoColor=2088FF" />
   <img title="Node.js" alt="Node.js" src="https://img.shields.io/badge/NODE.JS-393?style=for-the-badge&logo=node.js&logoColor=white" />
   <img title="NestJS" alt="NestJS" src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   <img title="Express.js" alt="Express.js" src="https://img.shields.io/badge/Express.js-EEE?style=for-the-badge&logo=express&logoColor=black" />
@@ -65,15 +70,16 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
   <img title="MobX" alt="MobX" src="https://img.shields.io/badge/MobX-EEE?style=for-the-badge&logo=mobx&logoColor=E25F18" />
   <img title="Redux" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img title="React Router" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img title="Styled-components" alt="Styled-components" src="https://img.shields.io/badge/styled--components-323232?style=for-the-badge&logo=styled-components&logoColor=DB78C7" />
   <img title="Angular" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img title="HTML5" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img title="SVG" alt="SVG" src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black" />
   <img title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img title="SASS" alt="SASS" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img title="Less" alt="Less" src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
+  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img title="Styled-components" alt="Styled-components" src="https://img.shields.io/badge/styled--components-323232?style=for-the-badge&logo=styled-components&logoColor=DB78C7" />
   <img title="Material-UI" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-212121?style=for-the-badge&logo=mui&logoColor=00B0FF" />
+  <img title="SHADCN/UI" alt="SHADCN/UI" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img title="Ant Design" alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-EEE?style=for-the-badge&logo=ant-design&logoColor=0170FE" />
   <img title="Bootstrap" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img title="Nativewind" alt="Nativewind" src="https://img.shields.io/badge/Nativewind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -89,16 +95,10 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
   <img title="Linux" alt="Linux" src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img title="Ubuntu" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-333?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
   <img title="Docker" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img title="Shell" alt="Shell" src="https://img.shields.io/badge/Shell-000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img title="Bash" alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img title="VS Code" alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS_Code-0078d7?style=for-the-badge&logo=vsc&logoColor=white" />
   <img title="Eclipse" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img title="Git" alt="Git" src="https://img.shields.io/badge/GIT-EEE?style=for-the-badge&logo=git&logoColor=F05033" />
-  <img title="GitHub" alt="GitHub" src="https://img.shields.io/badge/GITHUB-9CDAF0?style=for-the-badge&logo=github&logoColor=black" />
-  <img title="Github Actions" alt="Github Actions" src="https://img.shields.io/badge/GH_ACTIONS-333?style=for-the-badge&logo=github-actions&logoColor=2088FF" />
   <img title="Markdown" alt="Markdown" src="https://img.shields.io/badge/Markdown-2F9FE5?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=EC912D" />
-  <img title="Azure" alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />
   <img title="Godot" alt="Godot" src="https://img.shields.io/badge/Godot-333639?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
   <img title="Unity" alt="Unity" src="https://img.shields.io/badge/Unity-EEE?style=for-the-badge&logo=unity&logoColor=black" />
   <!-- 
@@ -158,4 +158,4 @@ Montado utilizando:
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-[comment]: # (version: 20260622205257)
+[comment]: # (version: 20260622215733)
