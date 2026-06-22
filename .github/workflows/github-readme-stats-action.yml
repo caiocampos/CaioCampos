@@ -2,13 +2,13 @@ name: Generate top languages chart
 
 on:
   schedule:
-    - cron: "0 1,22 * * *"
+    - cron: "5 1,22 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     env:
-      README_STATS: "https://github-readme-stats.vercel.app/api/top-langs?username=caiocampos&hide_title=true&hide=html,css,scss,makefile&langs_count=10&exclude_repo=JVM-Random-Stuff,Zig-C-Random-Stuff,GLAE"
+      README_STATS: "username=caiocampos&hide_title=true&hide=html,css,scss,makefile&langs_count=10&exclude_repo=JVM-Random-Stuff,Zig-C-Random-Stuff,GLAE"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
