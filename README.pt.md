@@ -33,7 +33,9 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
   <img title="C" alt="C" src="https://img.shields.io/badge/C-EEE?style=for-the-badge&logo=c&logoColor=00599C" />
   <img title="C++" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img title="C#" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <!--
   <img title="Dart" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  -->
   <img title="Golang" alt="Golang" src="https://img.shields.io/badge/GOLANG-007D9C?style=for-the-badge&logo=go&logoColor=white" />
   <img title="Java" alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -164,4 +166,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260626061535)
+[comment]: # (version: 20260626122706)
