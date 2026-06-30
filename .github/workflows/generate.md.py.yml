@@ -21,12 +21,12 @@ jobs:
     - name: Pin python-version ${{ matrix.python-version }}
       run: uv python pin ${{ matrix.python-version }}
     - name: Checkout md-fuse-py
-      uses: actions/checkout@v6
+      uses: actions/checkout@v7
       with:
         persist-credentials: false
         repository: caiocampos/md-fuse-py
     - name: Checkout base files
-      uses: actions/checkout@v6
+      uses: actions/checkout@v7
       with:
         persist-credentials: false
         repository: caiocampos/readme-base
