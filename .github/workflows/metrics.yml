@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: gh-metrics/metrics@v4
+      - uses: gh-metrics/metrics@main
         with:
           filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -19,7 +19,7 @@ jobs:
           config_timezone: America/Sao_Paulo
           config_padding: 0, 4 + 25%
 
-      - uses: gh-metrics/metrics@v4
+      - uses: gh-metrics/metrics@main
         with:
           filename: metrics.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
