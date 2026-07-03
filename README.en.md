@@ -111,17 +111,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr)
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io)
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score)
-
-Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
+Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts)
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[POI-inc](https://github.com/caiocampos/POI-inc)
+
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 
 ---
 
@@ -184,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703214050)
+[comment]: # (version: 20260703233558)
