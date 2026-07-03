@@ -125,6 +125,7 @@ Simple rust server with PostgresSQL connection
   <img src="https://github.com/caiocampos/readme-base/blob/master/images/animated.svg" />
 </div>
 
+---
 
 <details open>
   <summary>
@@ -179,4 +180,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703134309)
+[comment]: # (version: 20260703135908)
