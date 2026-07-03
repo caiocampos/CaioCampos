@@ -110,17 +110,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 
 ## Repositórios em destaque hoje:
 
-[img-fuse](https://github.com/caiocampos/img-fuse)
+[snake](https://github.com/cao-ancap/snake)
 
-Projeto de programa em rust para mesclar imagens para usar em cards digitais
+Snake: Busque comida pelo seu terrítório mas evite obstáculos pelo caminho. Jogo feito em TypeScript
 <br><br>
-[primes](https://github.com/caiocampos/primes)
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff)
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Projetos variados em Go
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py)
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff)
 
-Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
+Projetos variados em linguagens para JVM (Java, Kotlin, etc)
 
 ---
 
@@ -183,4 +183,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703154359)
+[comment]: # (version: 20260703160723)
