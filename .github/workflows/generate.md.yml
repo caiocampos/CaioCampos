@@ -36,7 +36,8 @@ jobs:
       run: |
            mkdir -p ./out
            cp -r ./base/* ./
-           cp -r ./repos/* ./files
+           rm -f ./files/repos-md.json
+           cp -f ./repos/repos-md.json ./files/repos-md.json
            rm -rf ./base
            rm -rf ./repos
     - name: Download Batch Binary
