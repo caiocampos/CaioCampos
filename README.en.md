@@ -111,17 +111,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes)
+[shrtr](https://github.com/caiocampos/shrtr)
 
-Restaurant's, Software prototype with login, authority management and CRAD entities (momentarily archived)
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[asteroid-score](https://github.com/caiocampos/asteroid-score)
+
+Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts)
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
-
-Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 
 ---
 
@@ -184,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703195822)
+[comment]: # (version: 20260703214050)
