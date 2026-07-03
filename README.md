@@ -114,13 +114,13 @@ These are the featured repositories at the moment:
 
 POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 
-
+<br>
 
 [md-fuse-py](https://github.com/caiocampos/md-fuse-py)
 
 Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
-
+<br>
 
 [blog-posts](https://github.com/caiocampos/blog-posts)
 
