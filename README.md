@@ -108,6 +108,19 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 ---
 
+These are the featured repositories at the moment:
+
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi)
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff)
+Miscellaneous projects in JavaScript and TypeScript
+
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi)
+Simple rust server with PostgresSQL connection
+
+---
+
 <div align="center">
   <img src="https://github.com/caiocampos/readme-base/blob/master/images/animated.svg" />
 </div>
@@ -166,4 +179,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703055819)
+[comment]: # (version: 20260703134309)
