@@ -108,7 +108,9 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 ---
 
-## Featured repositories today:
+### Featured repositories today:
+
+<br>
 
 [snake](https://github.com/cao-ancap/snake)
 
@@ -183,4 +185,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703160723)
+[comment]: # (version: 20260703161940)
