@@ -29,6 +29,7 @@ jobs:
       with:
         persist-credentials: false
         repository: caiocampos/caiocampos.github.io
+        ref: master
         path: repos
         sparse-checkout: |
           repos-md.json
@@ -36,7 +37,6 @@ jobs:
       run: |
            mkdir -p ./out
            cp -r ./base/* ./
-           rm -f ./files/repos-md.json
            cp -f ./repos/repos-md.json ./files/repos-md.json
            rm -rf ./base
            rm -rf ./repos
