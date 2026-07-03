@@ -111,17 +111,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids)
+[POI-inc](https://github.com/caiocampos/POI-inc)
 
-Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
+POI-inc, protótipo de Software de gerência de Pontos de Interesse, usando Kotlin, Spring e MongoDB
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr)
+[Restaurantes](https://github.com/caiocampos/Restaurantes)
 
-Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+Restaurante's, protótipo de Software com login, gestão de autoridades e CRUD de entidades (arquivado momentaneamente)
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse)
+[web-games](https://github.com/cao-ancap/web-games)
 
-Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
+Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
 
 ---
 
@@ -184,4 +184,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703170024)
+[comment]: # (version: 20260703175756)

@@ -111,17 +111,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids)
+[POI-inc](https://github.com/caiocampos/POI-inc)
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr)
+[Restaurantes](https://github.com/caiocampos/Restaurantes)
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Restaurant's, Software prototype with login, authority management and CRAD entities (momentarily archived)
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse)
+[web-games](https://github.com/cao-ancap/web-games)
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+List of games developed by Anarchist Dog that can be tested in browser
 
 ---
 
@@ -184,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703170024)
+[comment]: # (version: 20260703175756)
