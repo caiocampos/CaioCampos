@@ -111,17 +111,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc)
-
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
-<br><br>
 [Restaurantes](https://github.com/caiocampos/Restaurantes)
 
 Restaurant's, Software prototype with login, authority management and CRAD entities (momentarily archived)
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games)
+[blog-posts](https://github.com/caiocampos/blog-posts)
 
-List of games developed by Anarchist Dog that can be tested in browser
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
+
+Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 
 ---
 
@@ -184,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703175756)
+[comment]: # (version: 20260703195822)

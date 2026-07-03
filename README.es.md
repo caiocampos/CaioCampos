@@ -111,17 +111,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc)
-
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
-<br><br>
 [Restaurantes](https://github.com/caiocampos/Restaurantes)
 
 Restaurante's, prototipo de Software con login, gestión de autoridades y CRUD de entidades (arquivado brevemente)
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games)
+[blog-posts](https://github.com/caiocampos/blog-posts)
 
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+<br><br>
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
+
+Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
 
 ---
 
@@ -184,4 +184,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703175756)
+[comment]: # (version: 20260703195822)
