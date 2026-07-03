@@ -1,6 +1,6 @@
 <h1 align="center">Hola :wave:</h1>
 
-Soy Caio, trabajo en Sysmap como desarrollador de software.
+Soy Caio, desarrollador de software full-stack y líder técnico.
 
 Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.github.io
 
@@ -108,23 +108,19 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 
 ---
 
-Estos son los repositorios destacados en este momento:
+## Repositorios destacados hoy:
 
-[POI-inc](https://github.com/caiocampos/POI-inc)
+[img-fuse](https://github.com/caiocampos/img-fuse)
 
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
+Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
+<br><br>
+[primes](https://github.com/caiocampos/primes)
 
-
-
+Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
+<br><br>
 [md-fuse-py](https://github.com/caiocampos/md-fuse-py)
 
 Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
-
-
-
-[blog-posts](https://github.com/caiocampos/blog-posts)
-
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 
 ---
 
@@ -187,4 +183,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703140658)
+[comment]: # (version: 20260703154359)

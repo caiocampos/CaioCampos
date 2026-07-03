@@ -1,6 +1,6 @@
 <h1 align="center">Hi there :wave:</h1>
 
-I'm Caio, I work at Sysmap as software developer.
+I'm Caio, a full-stack software developer and technical lead.
 
 To know my projects, please visit the website: https://caiocampos.github.io
 
@@ -108,23 +108,19 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 ---
 
-These are the featured repositories at the moment:
+## Featured repositories today:
 
-[POI-inc](https://github.com/caiocampos/POI-inc)
+[img-fuse](https://github.com/caiocampos/img-fuse)
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Rust program project to merge images to use in digital cards
+<br><br>
+[primes](https://github.com/caiocampos/primes)
 
-
-
+WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+<br><br>
 [md-fuse-py](https://github.com/caiocampos/md-fuse-py)
 
 Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
-
-
-
-[blog-posts](https://github.com/caiocampos/blog-posts)
-
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 ---
 
@@ -187,4 +183,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703140658)
+[comment]: # (version: 20260703154359)
