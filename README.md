@@ -111,17 +111,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[snake](https://github.com/cao-ancap/snake)
+[asteroids](https://github.com/cao-ancap/asteroids)
 
-Snake: Look for food through your territory but avoid obstacles along the way. Game made in TypeScript
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 <br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff)
+[shrtr](https://github.com/caiocampos/shrtr)
 
-Miscellaneous projects in Go
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff)
+[md-fuse](https://github.com/caiocampos/md-fuse)
 
-Various projects in languages for JVM (Java, Kotlin, etc.)
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 
 ---
 
@@ -184,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703162456)
+[comment]: # (version: 20260703170024)
