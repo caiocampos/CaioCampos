@@ -32,14 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi)
-Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff)
-Proyectos variados en JavaScript y TypeScript
+Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+<br><br>
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi)
-Servidor rust simple con conexión a PostgresSQL
+Proyectos variados en Go
+<br><br>
+[web-games](https://github.com/cao-ancap/web-games) - HTML
+
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
 
 
 ---
@@ -183,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704233312)
+[comment]: # (version: 20260704233403)
