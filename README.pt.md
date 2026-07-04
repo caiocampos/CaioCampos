@@ -26,6 +26,7 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
  --></a>
   </span>
 </div>
+
 ---
 
 **Repositórios em destaque hoje:**
@@ -39,6 +40,7 @@ Projetos variados em JavaScript e TypeScript
 
 [rust-db-restapi](https://github.com/caiocampos/rust-db-restapi)
 Servidor rust simples com conexão ao PostgresSQL
+
 
 ---
 
@@ -118,11 +120,13 @@ Servidor rust simples com conexão ao PostgresSQL
   <img title="Flutter" alt="Flutter" src="https://img.shields.io/badge/Flutter-EEE?style=for-the-badge&logo=flutter&logoColor=02569B" />
   -->
 </div>
+
 ---
 
 <div align="center">
   <img src="https://github.com/caiocampos/readme-base/blob/master/images/animated.svg" />
 </div>
+
 
 ---
 
@@ -179,4 +183,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704232233)
+[comment]: # (version: 20260704232804)
