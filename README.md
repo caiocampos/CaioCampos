@@ -111,23 +111,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff)
-
-Python
-
-Miscellaneous Python Projects
-<br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io)
-
-TypeScript
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
 Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-null
+Miscellaneous projects in Go
+<br><br>
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+List of games developed by Anarchist Dog that can be tested in browser
 
 ---
 
@@ -190,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704224549)
+[comment]: # (version: 20260704225506)

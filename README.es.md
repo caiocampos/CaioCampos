@@ -111,23 +111,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff)
-
-Python
-
-Proyectos variados en Python
-<br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io)
-
-TypeScript
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
 Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-null
+Proyectos variados en Go
+<br><br>
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
 
 ---
 
@@ -190,4 +184,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704224549)
+[comment]: # (version: 20260704225506)
