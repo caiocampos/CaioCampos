@@ -26,6 +26,19 @@ To know my projects, please visit the website: https://caiocampos.github.io
  --></a>
   </span>
 </div>
+---
+
+**Featured repositories today:**
+
+
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi)
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff)
+Miscellaneous projects in JavaScript and TypeScript
+
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi)
+Simple rust server with PostgresSQL connection
 
 ---
 
@@ -105,24 +118,6 @@ To know my projects, please visit the website: https://caiocampos.github.io
   <img title="Flutter" alt="Flutter" src="https://img.shields.io/badge/Flutter-EEE?style=for-the-badge&logo=flutter&logoColor=02569B" />
   -->
 </div>
-
----
-
-**Featured repositories today:**
-
-
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
-
-Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
-<br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
-
-Miscellaneous projects in Go
-<br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
-
-List of games developed by Anarchist Dog that can be tested in browser
-
 ---
 
 <div align="center">
@@ -184,4 +179,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704225506)
+[comment]: # (version: 20260704232233)
