@@ -115,13 +115,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts)
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc)
+[md-fuse](https://github.com/caiocampos/md-fuse)
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 
 ---
 
@@ -184,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260703233558)
+[comment]: # (version: 20260704042045)
