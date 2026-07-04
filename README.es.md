@@ -111,17 +111,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io)
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff)
 
-Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+Proyectos variados en C, C++, C# y Zig
 <br><br>
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi)
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff)
 
-Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
+Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
 <br><br>
-[loan-app](https://github.com/caiocampos/loan-app)
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff)
 
-Aplicación para registrar emprestimos de objetos o dinero usando React Native (arquivado brevemente)
+Proyectos variados en Go
 
 ---
 
@@ -184,4 +184,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704103323)
+[comment]: # (version: 20260704141021)
