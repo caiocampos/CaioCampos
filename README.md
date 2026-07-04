@@ -115,13 +115,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py)
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi)
 
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse)
+[loan-app](https://github.com/caiocampos/loan-app)
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Application to register loan of objects or money using React Native (momentarily archived)
 
 ---
 
@@ -184,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704042045)
+[comment]: # (version: 20260704103323)
