@@ -111,17 +111,23 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes)
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff)
 
-Restaurant's, Software prototype with login, authority management and CRAD entities (momentarily archived)
+Python
+
+Miscellaneous Python Projects
 <br><br>
 [caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io)
 
+TypeScript
+
 Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper)
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Utility to automate creation of compressed backup files
+null
+
+Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 
 ---
 
@@ -184,4 +190,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704212900)
+[comment]: # (version: 20260704224549)
