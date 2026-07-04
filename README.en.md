@@ -111,17 +111,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py)
 
-Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse)
+[blog-posts](https://github.com/caiocampos/blog-posts)
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[primes](https://github.com/caiocampos/primes)
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff)
 
-WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+Various projects in Lua, Perl and other languages
 
 ---
 
@@ -184,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704184317)
+[comment]: # (version: 20260704194552)
