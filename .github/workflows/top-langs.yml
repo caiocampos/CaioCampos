@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     env:
-      README_STATS: "username=caiocampos&hide_title=true&hide=html,css,scss,makefile&langs_count=10&exclude_repo=JVM-Random-Stuff,Zig-C-Random-Stuff,GLAE"
+      README_STATS: "username=caiocampos&hide_title=true&hide=html,css,scss,makefile&langs_count=10&exclude_repo=JS-Random-Stuff,JVM-Random-Stuff,Zig-C-Random-Stuff,GLAE"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
