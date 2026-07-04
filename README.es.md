@@ -111,17 +111,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff)
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff)
 
-Proyectos variados en C, C++, C# y Zig
+Proyectos variados en Python
 <br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff)
+[snake](https://github.com/cao-ancap/snake)
 
-Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 <br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff)
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff)
 
-Proyectos variados en Go
+Proyectos variados en JavaScript y TypeScript
 
 ---
 
@@ -184,4 +184,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704141021)
+[comment]: # (version: 20260704154258)
