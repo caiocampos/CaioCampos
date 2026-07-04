@@ -111,17 +111,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff)
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io)
 
-Miscellaneous Python Projects
+Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[snake](https://github.com/cao-ancap/snake)
+[asteroids](https://github.com/cao-ancap/asteroids)
 
-Snake: Look for food through your territory but avoid obstacles along the way. Game made in TypeScript
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 <br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff)
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff)
 
-Miscellaneous projects in JavaScript and TypeScript
+Miscellaneous projects in Rust
 
 ---
 
@@ -184,4 +184,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704154258)
+[comment]: # (version: 20260704173525)
