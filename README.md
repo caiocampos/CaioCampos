@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 <br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Various projects in Lua, Perl and other languages
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
+List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260705213447)
+[comment]: # (version: 20260705233642)
