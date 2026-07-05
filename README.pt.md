@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
+Projetos variados em linguagens para JVM (Java, Kotlin, etc)
 <br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Projetos variados em Go
+Backend usando NestJS (Express) e MongoDB (Mongoose), para jogo Asteroids: https://github.com/cao-ancap/asteroids
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
+Projetos variados em Lua, Perl e outras linguagens
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260704233403)
+[comment]: # (version: 20260705044127)
