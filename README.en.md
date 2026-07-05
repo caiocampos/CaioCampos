@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Various projects in Lua, Perl and other languages
+Miscellaneous projects in Rust
 <br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Miscellaneous projects in C, C++, C# and Zig
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260705173729)
+[comment]: # (version: 20260705195221)
