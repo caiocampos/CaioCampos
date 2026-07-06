@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Servidor Go utilizando Fiber e Parsley, com conexão ao MongoDB, e cache com Redis ou Valkey
+Projetos variados em linguagens para JVM (Java, Kotlin, etc)
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
+Backend usando NestJS (Express) e MongoDB (Mongoose), para jogo Asteroids: https://github.com/cao-ancap/asteroids
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260706145240)
+[comment]: # (version: 20260706154350)
