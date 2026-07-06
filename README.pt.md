@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Restaurante's, protótipo de Software com login, gestão de autoridades e CRUD de entidades (arquivado momentaneamente)
+<br><br>
 [JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
 Projetos variados em linguagens para JVM (Java, Kotlin, etc)
 <br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Servidor rust simples com conexão ao PostgresSQL
-<br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
-
-Restaurante's, protótipo de Software com login, gestão de autoridades e CRUD de entidades (arquivado momentaneamente)
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260706215844)
+[comment]: # (version: 20260706233922)
