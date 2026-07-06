@@ -30,15 +30,26 @@ jobs:
       with:
         persist-credentials: false
         repository: caiocampos/readme-base
-        path: out
+        path: base
         sparse-checkout: |
           files
           md.conf.json
+    - name: Checkout repos-md.json file
+      uses: actions/checkout@v7
+      with:
+        persist-credentials: false
+        repository: caiocampos/caiocampos.github.io
+        ref: master
+        path: repos
+        sparse-checkout: |
+          repos-md.json
     - name: Organize folders
       run: |
-           cp -r ./out/* ./
-           rm -rf ./out/files
-           rm -f ./out/md.conf.json
+           mkdir -p ./out
+           cp -r ./base/* ./
+           cp -f ./repos/repos-md.json ./files/json/repos-md.json
+           rm -rf ./base
+           rm -rf ./repos
     - name: Sync dependencies
       run: uv sync
     - name: Run
