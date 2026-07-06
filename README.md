@@ -32,13 +32,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Miscellaneous projects in Rust
+Various projects in languages for JVM (Java, Kotlin, etc.)
 <br><br>
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Simple rust server with PostgresSQL connection
 <br><br>
 [Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260706202835)
+[comment]: # (version: 20260706215844)
