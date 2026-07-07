@@ -32,6 +32,10 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
 [rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
 Simple rust server with PostgresSQL connection
@@ -39,10 +43,6 @@ Simple rust server with PostgresSQL connection
 [primes](https://github.com/caiocampos/primes) - Rust
 
 WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
-<br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
-
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260707043351)
+[comment]: # (version: 20260707112519)
