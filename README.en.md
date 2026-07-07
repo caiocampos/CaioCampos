@@ -36,13 +36,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 Simple rust server with PostgresSQL connection
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Restaurant's, Software prototype with login, authority management and CRAD entities (momentarily archived)
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260707010503)
+[comment]: # (version: 20260707043351)
