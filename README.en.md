@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Miscellaneous Python Projects
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Restaurant's, Software prototype with login, authority management and CRAD entities (momentarily archived)
+Simple node server using Express and MongoDB
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260707215428)
+[comment]: # (version: 20260707233037)
