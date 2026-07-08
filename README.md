@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Restaurant's, Software prototype with login, authority management and CRAD entities (momentarily archived)
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Utility to automate creation of compressed backup files
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260708200438)
+[comment]: # (version: 20260708214307)
