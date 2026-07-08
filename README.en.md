@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Restaurant's, Software prototype with login, authority management and CRAD of entities. (In migration)
-<br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
-
-Simple rust server with PostgresSQL connection
+Various projects in languages for JVM (Java, Kotlin, etc.)
 <br><br>
 [md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
 Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+<br><br>
+[primes](https://github.com/caiocampos/primes) - Rust
+
+WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260708035504)
+[comment]: # (version: 20260708103621)
