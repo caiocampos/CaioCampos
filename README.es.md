@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
-
-Restaurante's, prototipo de Software con login, gestión de autoridades y CRUD de entidades (arquivado brevemente)
-<br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
-
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
-<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+<br><br>
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+
+Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
+<br><br>
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Restaurante's, prototipo de Software con login, gestión de autoridades y CRUD de entidades (arquivado brevemente)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260708214307)
+[comment]: # (version: 20260708233746)
