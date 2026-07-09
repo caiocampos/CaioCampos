@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
+Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Restaurante's, prototipo de Software con login, gestión de autoridades y CRUD de entidades (arquivado brevemente)
+Proyectos variados en Luna, Perl y otros lenguajes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260708233746)
+[comment]: # (version: 20260709043215)
