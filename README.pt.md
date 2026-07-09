@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[7backupper](https://github.com/caiocampos/7backupper) - Python
+
+Utilitário para automatizar criação de arquivos de backup compactados
+<br><br>
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+
+Projetos variados em Python
+<br><br>
 [md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
 Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
-<br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
-
-Middleware para o serviço de tradução da página de portfólio desenvolvido em Go com estratégia Cache-Aside e Background Refresh, utilizando Gin Gonic e Redis. Para o projeto da página acesse: https://github.com/caiocampos/caiocampos.github.io
-<br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
-
-Projetos variados em Lua, Perl e outras linguagens
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260709043215)
+[comment]: # (version: 20260709112704)
