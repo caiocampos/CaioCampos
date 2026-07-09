@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Utility to automate creation of compressed backup files
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Miscellaneous Python Projects
+Software with login, authority management and CRAD of entities, using Go, Gin Gonic and MongoDB
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260709112704)
+[comment]: # (version: 20260709154210)

@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Utilitário para automatizar criação de arquivos de backup compactados
+Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Projetos variados em Python
+Software com login, gestão de autoridades e CRUD de entidades, utilizando Go, Gin Gonic e MongoDB
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
+Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260709112704)
+[comment]: # (version: 20260709154210)
