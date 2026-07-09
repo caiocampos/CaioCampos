@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-List of games developed by Anarchist Dog that can be tested in browser
+Software with login, authority management and CRAD of entities, using Go, Gin Gonic and MongoDB
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Software with login, authority management and CRAD of entities. (In migration)
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Simple node server using Express and MongoDB
+Various projects in languages for JVM (Java, Kotlin, etc.)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260709220021)
+[comment]: # (version: 20260709234641)
