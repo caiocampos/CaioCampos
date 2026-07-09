@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
-<br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
-
-Backend usando NestJS (Express) y MongoDB (Mongoose), para juego Asteroids: https://github.com/cao-ancap/asteroids
-<br><br>
 [caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
 Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+<br><br>
+[snake](https://github.com/cao-ancap/snake) - TypeScript
+
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
+<br><br>
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+
+Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260709181807)
+[comment]: # (version: 20260709202129)
