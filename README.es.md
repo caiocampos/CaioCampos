@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
+Servidor node simple usando Express y MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260709202129)
+[comment]: # (version: 20260709220021)
