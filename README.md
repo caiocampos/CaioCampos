@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+
+Miscellaneous projects in Go
+<br><br>
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
+
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+<br><br>
 [Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
 Software with login, authority management and CRAD of entities, using Go, Gin Gonic and MongoDB
-<br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
-
-Software with login, authority management and CRAD of entities. (In migration)
-<br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
-
-Various projects in languages for JVM (Java, Kotlin, etc.)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260709234641)
+[comment]: # (version: 20260710043439)
