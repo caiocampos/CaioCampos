@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
-
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
-<br><br>
 [shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
 Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+
+Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
+<br><br>
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+
+Software with login, authority management and CRAD of entities. (In migration)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260710195908)
+[comment]: # (version: 20260710213549)
