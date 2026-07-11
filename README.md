@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Miscellaneous Python Projects
 <br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project go to: https://github.com/caiocampos/caiocampos.github.io
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+Software with login, authority management and CRAD of entities, using Go, Gin Gonic and MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260711194236)
+[comment]: # (version: 20260711212336)
