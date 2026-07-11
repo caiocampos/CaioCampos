@@ -36,13 +36,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 Miscellaneous projects in C, C++, C# and Zig
 <br><br>
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+
+Software with login, authority management and CRAD of entities. (In migration)
+<br><br>
 [cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
 Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project go to: https://github.com/caiocampos/caiocampos.github.io
-<br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
-
-Utility to automate creation of compressed backup files
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260711113029)
+[comment]: # (version: 20260711140130)
