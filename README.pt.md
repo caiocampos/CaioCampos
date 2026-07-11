@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
+Software com login, gestão de autoridades e CRUD de entidades, utilizando Go, Gin Gonic e MongoDB
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Projetos variados em C, C++, C# e Zig
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260711153204)
+[comment]: # (version: 20260711173055)
