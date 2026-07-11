@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Simple rust server with PostgresSQL connection
 <br><br>
 [shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
 Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Miscellaneous projects in C, C++, C# and Zig
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260711035255)
+[comment]: # (version: 20260711100002)
