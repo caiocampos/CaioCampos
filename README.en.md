@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Various projects in languages for JVM (Java, Kotlin, etc.)
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Miscellaneous projects in Rust
+Rust program project to merge images to use in digital cards
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260712113826)
+[comment]: # (version: 20260712140534)
