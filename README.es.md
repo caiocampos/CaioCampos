@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+Proyectos variados en C, C++, C# y Zig
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260712140534)
+[comment]: # (version: 20260712153450)
