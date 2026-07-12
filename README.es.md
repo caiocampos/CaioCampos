@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
+Utilidad para automatizar la creación de archivos de copia de seguridad compactados
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Software con acceso, gestión de autoridades y CRUD de entidades. (En migración)
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[modular-server](https://github.com/caiocampos/modular-server) - TypeScript
 
-Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+Orquestador de Servicios y Monólito Modular utilizando NestJS (Fastify) y MongoDB (Mongoose), centraliza módulos independientes en una sola infraestructura de ejecución. Proyectos relacionados: https://github.com/caiocampos/blog-posts, https://github.com/caiocampos/shrtr, https://github.com/caiocampos/asteroid-score
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260712040723)
+[comment]: # (version: 20260712100939)

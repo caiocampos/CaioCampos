@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Utility to automate creation of compressed backup files
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Software with login, authority management and CRAD of entities. (In migration)
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[modular-server](https://github.com/caiocampos/modular-server) - TypeScript
 
-Home on Next 16. The page lists github repositories and translates the description of the projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
+Service Orchestrator and Modular Monolith using NestJS (Fastify) and MongoDB (Mongoose), centralizes independent modules into a single execution infrastructure. Related projects: https://github.com/caiocampos/blog-posts, https://github.com/caiocampos/shrtr, https://github.com/caiocampos/asteroid-score
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260712040723)
+[comment]: # (version: 20260712100939)
