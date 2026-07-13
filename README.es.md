@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
-<br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
-
-Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
 <br><br>
 [restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
 Software con acceso, gestión de autoridades y CRUD de entidades. (En migración)
+<br><br>
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260713113923)
+[comment]: # (version: 20260713152317)
