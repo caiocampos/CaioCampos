@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[primes](https://github.com/caiocampos/primes) - Rust
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
+Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Software con inicio, gestión de autoridades y CRUD de entidades, utilizando Go, Gin Gonic y MongoDB
+Proyectos variados en Rust
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260713181752)
+[comment]: # (version: 20260713195958)
