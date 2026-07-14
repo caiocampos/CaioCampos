@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[modular-server](https://github.com/caiocampos/modular-server) - TypeScript
 
-Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Orquestrador de Serviços e Monólito Modular utilizando NestJS (Fastify) e MongoDB (Mongoose), centraliza módulos independentes em uma única infraestrutura de execução. Projetos relacionados: https://github.com/caiocampos/blog-posts, https://github.com/caiocampos/shrtr, https://github.com/caiocampos/asteroid-score
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260714115640)
+[comment]: # (version: 20260714142531)
