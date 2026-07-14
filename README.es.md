@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Programa en Rust para montar archivos markdown para diversas lenguas. Para la versión de Python visite: https://github.com/caiocampos/md-fuse-py
+Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Software con acceso, gestión de autoridades y CRUD de entidades. (En migración)
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260713232705)
+[comment]: # (version: 20260714034501)
