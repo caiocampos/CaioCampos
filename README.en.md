@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[primes](https://github.com/caiocampos/primes) - Rust
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+Miscellaneous projects in JavaScript and TypeScript
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Simple rust server with PostgresSQL connection
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-List of games developed by Anarchist Dog that can be tested in browser
+Various projects in languages for JVM (Java, Kotlin, etc.)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260714034501)
+[comment]: # (version: 20260714101810)
