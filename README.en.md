@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Miscellaneous projects in JavaScript and TypeScript
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Simple rust server with PostgresSQL connection
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Various projects in languages for JVM (Java, Kotlin, etc.)
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260714101810)
+[comment]: # (version: 20260714115640)
