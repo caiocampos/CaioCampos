@@ -36,13 +36,13 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 
 Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Projetos variados em Go
+Projetos variados em JavaScript e TypeScript
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Projetos variados em C, C++, C# e Zig
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260715213028)
+[comment]: # (version: 20260715233033)
