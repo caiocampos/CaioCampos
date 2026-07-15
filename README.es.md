@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
-<br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
-
-Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
-<br><br>
 [Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
 Proyectos variados en Rust
+<br><br>
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+
+Proyectos variados en JavaScript y TypeScript
+<br><br>
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260715120136)
+[comment]: # (version: 20260715142046)
