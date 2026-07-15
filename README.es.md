@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Servidor rust simple con conexión a PostgresSQL
+Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
 <br><br>
 [Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
 Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB
 <br><br>
-[loan-app](https://github.com/caiocampos/loan-app) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Aplicación para registrar emprestimos de objetos o dinero usando React Native (arquivado brevemente)
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260715034507)
+[comment]: # (version: 20260715102133)
