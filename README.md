@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+<br><br>
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+<br><br>
 [Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
 Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB
-<br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
-
-Simple node server using Express and MongoDB
-<br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
-
-Rust program project to merge images to use in digital cards
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260715174838)
+[comment]: # (version: 20260715194600)
