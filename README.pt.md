@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Middleware para o serviço de tradução da página de portfólio desenvolvido em Go com estratégia Cache-Aside e Background Refresh, utilizando Gin Gonic e Redis. Para o projeto da página acesse: https://github.com/caiocampos/caiocampos.github.io
+Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
+<br><br>
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+
+Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
 <br><br>
 [web-games](https://github.com/cao-ancap/web-games) - HTML
 
 Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
-<br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
-
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260716194201)
+[comment]: # (version: 20260716213418)
