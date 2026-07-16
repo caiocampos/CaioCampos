@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
+Proyectos variados en C, C++, C# y Zig
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+Proyectos variados en Python
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Servidor rust simple con conexión a PostgresSQL
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260716102806)
+[comment]: # (version: 20260716120445)

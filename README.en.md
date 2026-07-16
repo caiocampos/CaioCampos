@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Utility to automate creation of compressed backup files
+Miscellaneous projects in C, C++, C# and Zig
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Miscellaneous Python Projects
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Simple rust server with PostgresSQL connection
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260716102806)
+[comment]: # (version: 20260716120445)
