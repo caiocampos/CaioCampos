@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
+Utility to automate creation of compressed backup files
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Miscellaneous projects in Rust
+Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260716034756)
+[comment]: # (version: 20260716102806)
