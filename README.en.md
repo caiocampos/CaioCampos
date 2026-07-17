@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+
+Miscellaneous projects in Rust
+<br><br>
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+
+Various projects in languages for JVM (Java, Kotlin, etc.)
+<br><br>
 [CaioCampos](https://github.com/caiocampos/CaioCampos)
 
 Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
-<br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
-
-Rust program project to merge images to use in digital cards
-<br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260717194047)
+[comment]: # (version: 20260717212249)

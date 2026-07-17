@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+
+Proyectos variados en Rust
+<br><br>
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+
+Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
+<br><br>
 [CaioCampos](https://github.com/caiocampos/CaioCampos)
 
 Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
-<br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
-
-Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
-<br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260717194047)
+[comment]: # (version: 20260717212249)
