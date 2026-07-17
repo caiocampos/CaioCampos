@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[primes](https://github.com/caiocampos/primes) - Rust
+
+Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+<br><br>
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+
+Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
-<br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
-
-Projetos variados em JavaScript e TypeScript
-<br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
-
-Projetos variados em C, C++, C# e Zig
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260717115314)
+[comment]: # (version: 20260717141321)

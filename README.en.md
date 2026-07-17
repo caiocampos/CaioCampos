@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[primes](https://github.com/caiocampos/primes) - Rust
+
+WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+<br><br>
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
-
-Miscellaneous projects in JavaScript and TypeScript
-<br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
-
-Miscellaneous projects in C, C++, C# and Zig
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260717115314)
+[comment]: # (version: 20260717141321)
