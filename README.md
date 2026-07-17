@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-Miscellaneous projects in Rust
+Miscellaneous projects in Go
 <br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Various projects in languages for JVM (Java, Kotlin, etc.)
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Miscellaneous projects in C, C++, C# and Zig
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260717212249)
+[comment]: # (version: 20260717232534)
