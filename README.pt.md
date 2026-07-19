@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Snake: Busque comida pelo seu terrítório mas evite obstáculos pelo caminho. Jogo feito em TypeScript
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Backend usando NestJS (Express) e MongoDB (Mongoose), para jogo Asteroids: https://github.com/cao-ancap/asteroids
 <br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Software com login, gestão de autoridades e C.R.U.D. de entidades. Para o projeto do servidor acesse: https://github.com/caiocampos/Restaurantes
+Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260719153128)
+[comment]: # (version: 20260719173226)
