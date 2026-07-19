@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-POI-inc, protótipo de Software de gerência de Pontos de Interesse, usando Kotlin, Spring e MongoDB
+Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
+Projetos variados em Python
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260719100801)
+[comment]: # (version: 20260719113705)
