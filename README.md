@@ -36,13 +36,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
+Miscellaneous projects in C, C++, C# and Zig
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260719173226)
+[comment]: # (version: 20260719194213)
