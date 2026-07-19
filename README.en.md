@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[snake](https://github.com/cao-ancap/snake) - TypeScript
+
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+<br><br>
 [primes](https://github.com/caiocampos/primes) - Rust
 
 WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
-
-Utility to automate creation of compressed backup files
+Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260719140245)
+[comment]: # (version: 20260719153128)
