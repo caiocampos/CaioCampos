@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
-
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
-
-WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
-<br><br>
 [restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
 Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
+<br><br>
+[web-games](https://github.com/cao-ancap/web-games) - HTML
+
+List of games developed by Anarchist Dog that can be tested in browser
+<br><br>
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260720143941)
+[comment]: # (version: 20260720182955)
