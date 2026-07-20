@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Rust program to mount markdown files for several languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Utility to automate creation of compressed backup files
 <br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Various projects in Lua, Perl and other languages
+Simple rust server with PostgresSQL connection
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260720042303)
+[comment]: # (version: 20260720112305)
