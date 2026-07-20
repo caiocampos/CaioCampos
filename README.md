@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[web-games](https://github.com/cao-ancap/web-games) - HTML
-
-List of games developed by Anarchist Dog that can be tested in browser
-<br><br>
 [md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
 Rust program to mount markdown files for several languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Miscellaneous Python projects
+Various projects in Lua, Perl and other languages
+<br><br>
+[snake](https://github.com/cao-ancap/snake) - TypeScript
+
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260719233206)
+[comment]: # (version: 20260720042303)
