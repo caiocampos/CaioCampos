@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[primes](https://github.com/caiocampos/primes) - Rust
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
+Proyectos variados en Rust
+<br><br>
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
+
+Servidor node simple usando Express y MongoDB
 <br><br>
 [caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
 Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
-<br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
-
-Software con login, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260720214412)
+[comment]: # (version: 20260720233208)
