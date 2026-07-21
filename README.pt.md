@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[Dart-Random-Stuff](https://github.com/caiocampos/Dart-Random-Stuff) - Dart
 
-Projetos variados em Rust
+Projetos variados em Dart
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Utilitário para automatizar criação de arquivos de backup compactados
+Projetos variados em JavaScript e TypeScript
 <br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-POI-inc, protótipo de Software de gerência de Pontos de Interesse, usando Kotlin, Spring e MongoDB
+Servidor Go utilizando Fiber e Parsley, com conexão ao MongoDB, e cache com Redis ou Valkey
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260721200136)
+[comment]: # (version: 20260721214021)
