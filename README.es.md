@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Backend usando NestJS (Express) y MongoDB (Mongoose), para juego Asteroids: https://github.com/cao-ancap/asteroids
+Proyectos variados en Rust
+<br><br>
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+
+Proyectos variados en Luna, Perl y otros lenguajes
 <br><br>
 [web-games](https://github.com/cao-ancap/web-games) - HTML
 
 Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
-<br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
-
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260721103911)
+[comment]: # (version: 20260721143542)
