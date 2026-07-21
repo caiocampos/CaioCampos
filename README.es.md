@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Proyectos variados en Rust
+Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Proyectos variados en Luna, Perl y otros lenguajes
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260721143542)
+[comment]: # (version: 20260721175408)
