@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Servidor node simple usando Express y MongoDB
+Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
+Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260722035749)
+[comment]: # (version: 20260722103858)
