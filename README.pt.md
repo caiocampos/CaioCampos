@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Utilitário para automatizar criação de arquivos de backup compactados
+Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+Software com login, gestão de autoridades e C.R.U.D. de entidades, utilizando Go, Gin Gonic e MongoDB. Para o projeto da página acesse: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260722143501)
+[comment]: # (version: 20260722174926)

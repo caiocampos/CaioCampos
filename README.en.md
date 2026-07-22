@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Utility to automate creation of compressed backup files
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Software with login, authority management and entity C.R.U.D., using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260722143501)
+[comment]: # (version: 20260722174926)
