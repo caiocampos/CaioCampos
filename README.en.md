@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-List of games developed by Anarchist Dog that can be tested in browser
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Miscellaneous projects in Rust
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260723144140)
+[comment]: # (version: 20260723175552)
