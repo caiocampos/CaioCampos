@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Software com login, gestão de autoridades e C.R.U.D. de entidades. Para o projeto do servidor acesse: https://github.com/caiocampos/Restaurantes
+Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260723175552)
+[comment]: # (version: 20260723195604)
