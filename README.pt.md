@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Software com login, gestão de autoridades e C.R.U.D. de entidades, utilizando Go, Gin Gonic e MongoDB. Para o projeto da página acesse: https://github.com/caiocampos/restaurantes-app
+Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
+Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260724103404)
+[comment]: # (version: 20260724142102)
