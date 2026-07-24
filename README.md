@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
-
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
-<br><br>
 [primes](https://github.com/caiocampos/primes) - Rust
 
 WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+
+Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260724155545)
+[comment]: # (version: 20260724180026)
