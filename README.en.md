@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
-
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
-<br><br>
 [rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
 Simple rust server with PostgresSQL connection
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
+Miscellaneous projects in Go
+<br><br>
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260725034907)
+[comment]: # (version: 20260725100849)
