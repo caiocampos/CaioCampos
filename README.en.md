@@ -36,13 +36,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Simple rust server with PostgresSQL connection
+Miscellaneous projects in JavaScript and TypeScript
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Miscellaneous Python projects
+Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260725141033)
+[comment]: # (version: 20260725154135)
