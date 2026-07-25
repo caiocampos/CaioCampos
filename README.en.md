@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Simple rust server with PostgresSQL connection
+Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Miscellaneous projects in Go
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260725100849)
+[comment]: # (version: 20260725114603)
