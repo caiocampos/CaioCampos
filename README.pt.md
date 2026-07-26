@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
+POI-inc, protótipo de Software de gerência de Pontos de Interesse, usando Kotlin, Spring e MongoDB
 <br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Servidor rust simples com conexão ao PostgresSQL
+Projetos variados em Rust
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260726101855)
+[comment]: # (version: 20260726114617)
