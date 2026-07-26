@@ -32,13 +32,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-List of games developed by Anarchist Dog that can be tested in browser
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260726140954)
+[comment]: # (version: 20260726154101)
