@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+
+Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+<br><br>
 [Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
 Proyectos variados en C, C++, C# y Zig
 <br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
-<br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
-
-Servidor rust simple con conexión a PostgresSQL
+Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260726194441)
+[comment]: # (version: 20260726212754)
