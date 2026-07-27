@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+
+Middleware para o serviço de tradução da página de portfólio desenvolvido em Go com estratégia Cache-Aside e Background Refresh, utilizando Gin Gonic e Redis. Para o projeto da página acesse: https://github.com/caiocampos/caiocampos.github.io
+<br><br>
 [rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
 Servidor rust simples com conexão ao PostgresSQL
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
-<br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
-
-Projetos variados em C, C++, C# e Zig
+Utilitário para automatizar criação de arquivos de backup compactados
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260727200530)
+[comment]: # (version: 20260727214112)
