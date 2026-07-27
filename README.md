@@ -32,13 +32,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Simple node server using Express and MongoDB
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
+Miscellaneous projects in C, C++, C# and Zig
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260727042319)
+[comment]: # (version: 20260727115226)
