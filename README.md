@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Simple rust server with PostgresSQL connection
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Simple node server using Express and MongoDB
+Utility to automate creation of compressed backup files
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260729145139)
+[comment]: # (version: 20260729174929)
