@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Simple rust server with PostgresSQL connection
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Utility to automate creation of compressed backup files
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260729174929)
+[comment]: # (version: 20260729195321)
