@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
+Proyectos variados en Luna, Perl y otros lenguajes
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260729212711)
+[comment]: # (version: 20260729233202)
