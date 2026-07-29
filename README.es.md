@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
+Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
 <br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
+Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Proyectos variados en C, C++, C# y Zig
+Proyectos variados en Python
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260729035029)
+[comment]: # (version: 20260729110333)
