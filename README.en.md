@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Various projects in Lua, Perl and other languages
+Simple node server using Express and MongoDB
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260729233202)
+[comment]: # (version: 20260730034201)
