@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Simple node server using Express and MongoDB
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Utility to automate creation of compressed backup files
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-List of games developed by Anarchist Dog that can be tested in browser
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260730214425)
+[comment]: # (version: 20260730233359)
