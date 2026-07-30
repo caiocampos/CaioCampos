@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[primes](https://github.com/caiocampos/primes) - Rust
-
-Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
-<br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
-
-Proyectos variados en C, C++, C# y Zig
-<br><br>
 [POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
 POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
+<br><br>
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+<br><br>
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+
+Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260730175701)
+[comment]: # (version: 20260730200325)
