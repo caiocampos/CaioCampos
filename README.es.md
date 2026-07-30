@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
-<br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
-
-Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+Servidor node simple usando Express y MongoDB
 <br><br>
 [md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
 Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
+<br><br>
+[web-games](https://github.com/cao-ancap/web-games) - HTML
+
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260730200325)
+[comment]: # (version: 20260730214425)

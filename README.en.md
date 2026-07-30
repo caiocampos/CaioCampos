@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
-<br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
-
-Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
+Simple node server using Express and MongoDB
 <br><br>
 [md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
 Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+<br><br>
+[web-games](https://github.com/cao-ancap/web-games) - HTML
+
+List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260730200325)
+[comment]: # (version: 20260730214425)
