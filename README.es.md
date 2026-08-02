@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
+Proyectos variados en Rust
+<br><br>
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+
+Proyectos variados en JavaScript y TypeScript
 <br><br>
 [rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
 Servidor rust simple con conexión a PostgresSQL
-<br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
-
-Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260802194357)
+[comment]: # (version: 20260802212611)
