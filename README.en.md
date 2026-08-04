@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
-
-Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
-<br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
-
-Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
-<br><br>
 [shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
 Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+
+Miscellaneous projects in JavaScript and TypeScript
+<br><br>
+[primes](https://github.com/caiocampos/primes) - Rust
+
+WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260804181133)
+[comment]: # (version: 20260804200933)
