@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+Servidor rust simple con conexión a PostgresSQL
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Servidor node simple usando Express y MongoDB
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
+POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260806035025)
+[comment]: # (version: 20260806110135)
