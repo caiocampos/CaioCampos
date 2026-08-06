@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+
+Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
+<br><br>
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+<br><br>
 [rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
 Servidor rust simple con conexión a PostgresSQL
-<br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
-
-Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
-<br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
-
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260806110135)
+[comment]: # (version: 20260806145435)
