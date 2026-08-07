@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Rust program project to merge images to use in digital cards
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Miscellaneous projects in C, C++, C# and Zig
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Simple node server using Express and MongoDB
+Simple rust server with PostgresSQL connection
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260807113744)
+[comment]: # (version: 20260807135029)
