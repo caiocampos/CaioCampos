@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+
+Miscellaneous projects in Go
+<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
-
-WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
-<br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
-
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260807211157)
+[comment]: # (version: 20260807230657)
