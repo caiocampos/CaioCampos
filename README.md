@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Dart-Random-Stuff](https://github.com/caiocampos/Dart-Random-Stuff) - Dart
-
-Miscellaneous projects in Dart
-<br><br>
 [cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
 Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Miscellaneous Python Projects
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+<br><br>
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+
+Miscellaneous projects in Go
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260807033024)
+[comment]: # (version: 20260807093319)
