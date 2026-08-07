@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
+Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+Proyectos variados en C, C++, C# y Zig
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Servidor node simple usando Express y MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260807113430)
+[comment]: # (version: 20260807113532)
