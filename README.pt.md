@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
+Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Servidor rust simples com conexão ao PostgresSQL
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260808091105)
+[comment]: # (version: 20260808110138)
