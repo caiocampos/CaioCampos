@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Miscellaneous projects in Rust
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260808035249)
+[comment]: # (version: 20260808091105)
