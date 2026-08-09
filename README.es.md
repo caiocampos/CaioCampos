@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Proyectos variados en Python
+Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260809210305)
+[comment]: # (version: 20260809230035)
