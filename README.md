@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[readme-base](https://github.com/caiocampos/readme-base) - HTML
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Base code for the README assembly of the profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
 <br><br>
 [CaioCampos](https://github.com/caiocampos/CaioCampos)
 
 Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260810135647)
+[comment]: # (version: 20260810152134)
