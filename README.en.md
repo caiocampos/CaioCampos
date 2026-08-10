@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
 [md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
 Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260810193207)
+[comment]: # (version: 20260810212011)
