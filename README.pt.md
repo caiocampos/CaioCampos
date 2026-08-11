@@ -36,13 +36,13 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 
 Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
+Projetos variados em JavaScript e TypeScript
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Projetos variados em Python
+Software com login, gestão de autoridades e C.R.U.D. de entidades, utilizando Go, Gin Gonic e MongoDB. Para o projeto da página acesse: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260811152942)
+[comment]: # (version: 20260811172906)
