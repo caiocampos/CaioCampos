@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Various projects in languages for JVM (Java, Kotlin, etc.)
+Miscellaneous projects in Rust
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Miscellaneous Python Projects
 <br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
+Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260811231901)
+[comment]: # (version: 20260812030445)
