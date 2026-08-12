@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+
+Proyectos variados en C, C++, C# y Zig
+<br><br>
+[web-games](https://github.com/cao-ancap/web-games) - HTML
+
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+<br><br>
 [restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
 Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
-<br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
-
-Programa en Rust para montar archivos markdown para diversas lenguas. Para la versión de Python visite: https://github.com/caiocampos/md-fuse-py
-<br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
-
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260812112302)
+[comment]: # (version: 20260812135825)
