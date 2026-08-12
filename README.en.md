@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[loan-app](https://github.com/caiocampos/loan-app) - TypeScript
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Application to register loan of objects or money using React Native (momentarily archived)
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
+Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260812212102)
+[comment]: # (version: 20260812231130)
