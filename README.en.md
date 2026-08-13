@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
-
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
-<br><br>
 [JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
 Miscellaneous projects in JavaScript and TypeScript
+<br><br>
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+<br><br>
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
+
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260813112151)
+[comment]: # (version: 20260813135825)
