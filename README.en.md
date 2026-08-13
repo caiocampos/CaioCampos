@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Rust program project to merge images to use in digital cards
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Miscellaneous projects in C, C++, C# and Zig
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260813193446)
+[comment]: # (version: 20260813211257)
