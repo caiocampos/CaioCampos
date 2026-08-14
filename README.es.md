@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
+Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Proyectos variados en Luna, Perl y otros lenguajes
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
+Servidor node simple usando Express y MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260814192932)
+[comment]: # (version: 20260814205638)

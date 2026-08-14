@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
+Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Various projects in Lua, Perl and other languages
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Rust program project to merge images to use in digital cards
+Simple node server using Express and MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260814192932)
+[comment]: # (version: 20260814205638)
