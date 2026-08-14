@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
-<br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
-
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+<br><br>
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+
+Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260814173008)
+[comment]: # (version: 20260814192932)

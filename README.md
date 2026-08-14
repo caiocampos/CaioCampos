@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
-<br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
-
-List of games developed by Anarchist Dog that can be tested in browser
+Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+
+Rust program project to merge images to use in digital cards
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260814173008)
+[comment]: # (version: 20260814192932)
