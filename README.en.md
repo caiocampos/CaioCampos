@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[readme-base](https://github.com/caiocampos/readme-base) - HTML
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Base code for the README assembly of the profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
 <br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Miscellaneous projects in Go
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260814152218)
+[comment]: # (version: 20260814173008)
