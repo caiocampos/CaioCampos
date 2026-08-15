@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Servidor node simple usando Express y MongoDB
+Backend usando NestJS (Express) y MongoDB (Mongoose), para juego Asteroids: https://github.com/cao-ancap/asteroids
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
+POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260815104843)
+[comment]: # (version: 20260815130829)
