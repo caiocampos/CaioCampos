@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+Proyectos variados en Go
+<br><br>
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
 [asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
 Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
-<br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
-
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260815145017)
+[comment]: # (version: 20260815165122)
