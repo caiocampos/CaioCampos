@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Utilitário para automatizar criação de arquivos de backup compactados
+Projetos variados em Lua, Perl e outras linguagens
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Projetos variados em linguagens para JVM (Java, Kotlin, etc)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260816104948)
+[comment]: # (version: 20260816130956)

@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Utility to automate creation of compressed backup files
+Various projects in Lua, Perl and other languages
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Various projects in languages for JVM (Java, Kotlin, etc.)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260816104948)
+[comment]: # (version: 20260816130956)
