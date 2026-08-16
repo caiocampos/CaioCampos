@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Utilitário para automatizar criação de arquivos de backup compactados
 <br><br>
 [primes](https://github.com/caiocampos/primes) - Rust
 
 Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Backend usando NestJS (Express) e MongoDB (Mongoose), para jogo Asteroids: https://github.com/cao-ancap/asteroids
+Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260816085731)
+[comment]: # (version: 20260816104948)
