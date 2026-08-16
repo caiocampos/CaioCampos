@@ -36,13 +36,13 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Servidor node simple usando Express y MongoDB
+Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+Backend usando NestJS (Express) y MongoDB (Mongoose), para juego Asteroids: https://github.com/cao-ancap/asteroids
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260816032730)
+[comment]: # (version: 20260816085731)
