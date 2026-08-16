@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Various projects in Lua, Perl and other languages
+Rust program project to merge images to use in digital cards
 <br><br>
 [web-games](https://github.com/cao-ancap/web-games) - HTML
 
 List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Various projects in languages for JVM (Java, Kotlin, etc.)
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260816130956)
+[comment]: # (version: 20260816145025)
