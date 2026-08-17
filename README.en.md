@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-List of games developed by Anarchist Dog that can be tested in browser
+Various projects in Lua, Perl and other languages
 <br><br>
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Various projects in languages for JVM (Java, Kotlin, etc.)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260817032753)
+[comment]: # (version: 20260817090959)
