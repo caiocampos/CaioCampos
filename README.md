@@ -32,13 +32,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Various projects in Lua, Perl and other languages
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
 [JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260817090959)
+[comment]: # (version: 20260817105759)
