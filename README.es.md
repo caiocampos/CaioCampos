@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
+Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
+Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
+POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260817165631)
+[comment]: # (version: 20260817190803)
