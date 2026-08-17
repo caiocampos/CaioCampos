@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Simple node server using Express and MongoDB
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260817020443)
+[comment]: # (version: 20260817032753)
