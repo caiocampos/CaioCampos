@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Miscellaneous projects in JavaScript and TypeScript
+Simple rust server with PostgresSQL connection
 <br><br>
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260818114511)
+[comment]: # (version: 20260818132441)
