@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[readme-base](https://github.com/caiocampos/readme-base) - HTML
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Código base para el montaje del README de la página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Proyectos variados en Rust
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-Servidor node simple usando Express y MongoDB
+Proyectos variados en Go
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260818021125)
+[comment]: # (version: 20260818021140)
