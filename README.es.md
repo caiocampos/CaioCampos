@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
-<br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
-
-Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
+Proyectos variados en C, C++, C# y Zig
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+<br><br>
+[snake](https://github.com/cao-ancap/snake) - TypeScript
+
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260818190747)
+[comment]: # (version: 20260818205127)
