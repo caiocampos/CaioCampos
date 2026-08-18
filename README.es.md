@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[readme-base](https://github.com/caiocampos/readme-base) - HTML
 
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+Código base para el montaje del README de la página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+<br><br>
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
+
+Servidor node simple usando Express y MongoDB
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
-<br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
-
-Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260817225156)
+[comment]: # (version: 20260818015842)
