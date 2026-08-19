@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
+Projeto de programa em rust para mesclar imagens para usar em cards digitais
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
+Servidor rust simples com conexão ao PostgresSQL
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260818225204)
+[comment]: # (version: 20260819020238)
