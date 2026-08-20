@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Software com login, gestão de autoridades e C.R.U.D. de entidades, utilizando Go, Gin Gonic e MongoDB. Para o projeto da página acesse: https://github.com/caiocampos/restaurantes-app
+<br><br>
+[modular-server](https://github.com/caiocampos/modular-server) - TypeScript
+
+Orquestrador de Serviços e Monólito Modular utilizando NestJS (Fastify) e MongoDB (Mongoose), centraliza módulos independentes em uma única infraestrutura de execução. Projetos relacionados: https://github.com/caiocampos/blog-posts, https://github.com/caiocampos/shrtr, https://github.com/caiocampos/asteroid-score
+<br><br>
 [Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
 Projetos variados em Rust
-<br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
-
-Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
-<br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
-
-Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260820032500)
+[comment]: # (version: 20260820090616)
