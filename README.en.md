@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[modular-server](https://github.com/caiocampos/modular-server) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Service Orchestrator and Modular Monolith using NestJS (Fastify) and MongoDB (Mongoose), centralizes independent modules in a single execution infrastructure. Related projects: https://github.com/caiocampos/blog-posts, https://github.com/caiocampos/shrtr, https://github.com/caiocampos/asteroid-score
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Miscellaneous projects in Rust
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260820090616)
+[comment]: # (version: 20260820105809)
