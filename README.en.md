@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Simple rust server with PostgresSQL connection
+Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Miscellaneous projects in C, C++, C# and Zig
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Miscellaneous projects in Go
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260821090838)
+[comment]: # (version: 20260821105809)
