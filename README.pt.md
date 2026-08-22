@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-POI-inc, protótipo de Software de gerência de Pontos de Interesse, usando Kotlin, Spring e MongoDB
+Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+<br><br>
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 <br><br>
 [CaioCampos](https://github.com/caiocampos/CaioCampos)
 
 Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
-<br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
-
-Projetos variados em Rust
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260822085818)
+[comment]: # (version: 20260822105035)
