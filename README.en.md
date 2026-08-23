@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Rust program project to merge images to use in digital cards
+Simple node server using Express and MongoDB
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260822224939)
+[comment]: # (version: 20260823020932)
