@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
-
-Servidor Go utilizando Fiber e Parsley, com conexão ao MongoDB, e cache com Redis ou Valkey
-<br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
-
-Servidor node simples usando Express e MongoDB
-<br><br>
 [shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
 Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+<br><br>
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Software com login, gestão de autoridades e C.R.U.D. de entidades, utilizando Go, Gin Gonic e MongoDB. Para o projeto da página acesse: https://github.com/caiocampos/restaurantes-app
+<br><br>
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+
+Projetos variados em Lua, Perl e outras linguagens
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260823020932)
+[comment]: # (version: 20260823032950)
