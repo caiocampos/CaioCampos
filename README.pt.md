@@ -36,13 +36,13 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 
 Projetos variados em linguagens para JVM (Java, Kotlin, etc)
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Servidor rust simples com conexão ao PostgresSQL
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Projetos variados em Python
+Software com login, gestão de autoridades e C.R.U.D. de entidades, utilizando Go, Gin Gonic e MongoDB. Para o projeto da página acesse: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260823145126)
+[comment]: # (version: 20260823165259)
