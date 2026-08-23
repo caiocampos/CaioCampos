@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
+Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
 <br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
+Proyectos variados en Rust
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260823085813)
+[comment]: # (version: 20260823105113)
