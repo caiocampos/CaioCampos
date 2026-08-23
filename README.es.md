@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
+Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Proyectos variados en Rust
+Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260823105113)
+[comment]: # (version: 20260823131114)
