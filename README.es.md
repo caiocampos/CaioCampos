@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Proyectos variados en Rust
+Backend usando NestJS (Express) y MongoDB (Mongoose), para juego Asteroids: https://github.com/cao-ancap/asteroids
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
+Proyectos variados en Luna, Perl y otros lenguajes
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
+Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260823224936)
+[comment]: # (version: 20260824020803)
