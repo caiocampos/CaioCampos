@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
+Servidor Go utilizando Fiber e Parsley, com conexão ao MongoDB, e cache com Redis ou Valkey
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260825170624)
+[comment]: # (version: 20260825190913)
