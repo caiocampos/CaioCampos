@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Servidor rust simples com conexão ao PostgresSQL
-<br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
-
-Utilitário para automatizar criação de arquivos de backup compactados
+POI-inc, protótipo de Software de gerência de Pontos de Interesse, usando Kotlin, Spring e MongoDB
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+<br><br>
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+
+Backend usando NestJS (Express) e MongoDB (Mongoose), para jogo Asteroids: https://github.com/cao-ancap/asteroids
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260825132907)
+[comment]: # (version: 20260825152214)
