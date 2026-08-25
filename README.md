@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Rust program to mount markdown files for several languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
+List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260825152214)
+[comment]: # (version: 20260825170624)

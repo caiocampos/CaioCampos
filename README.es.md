@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
+Programa en Rust para montar archivos markdown para diversas lenguas. Para la versión de Python visite: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Backend usando NestJS (Express) y MongoDB (Mongoose), para juego Asteroids: https://github.com/cao-ancap/asteroids
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260825152214)
+[comment]: # (version: 20260825170624)
