@@ -36,13 +36,13 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Servidor node simple usando Express y MongoDB
+Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
+Utilidad para automatizar la creación de archivos de copia de seguridad compactados
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260826181801)
+[comment]: # (version: 20260826203923)
