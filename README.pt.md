@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+<br><br>
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
+
+Servidor node simples usando Express e MongoDB
+<br><br>
 [asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
 Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
-<br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
-
-Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
-<br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
-
-Software com login, gestão de autoridades e C.R.U.D. de entidades. Para o projeto do servidor acesse: https://github.com/caiocampos/Restaurantes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260826160050)
+[comment]: # (version: 20260826181801)
