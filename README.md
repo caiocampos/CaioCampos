@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Software with login, authority management and entity C.R.U.D., using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
+WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Simple node server using Express and MongoDB
+List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260829174856)
+[comment]: # (version: 20260829210449)

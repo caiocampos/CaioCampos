@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
+Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Software con login, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Servidor node simple usando Express y MongoDB
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260829174856)
+[comment]: # (version: 20260829210449)
