@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Backend usando NestJS (Express) y MongoDB (Mongoose), para juego Asteroids: https://github.com/cao-ancap/asteroids
+Proyectos variados en C, C++, C# y Zig
+<br><br>
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
 [primes](https://github.com/caiocampos/primes) - Rust
 
 Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
-<br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
-
-Proyectos variados en Luna, Perl y otros lenguajes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260901012143)
+[comment]: # (version: 20260901063909)
