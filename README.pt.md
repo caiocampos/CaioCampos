@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Projetos variados em C, C++, C# e Zig
+Middleware para o serviço de tradução da página de portfólio desenvolvido em Go com estratégia Cache-Aside e Background Refresh, utilizando Gin Gonic e Redis. Para o projeto da página acesse: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Servidor node simples usando Express e MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260901063909)
+[comment]: # (version: 20260901133756)
