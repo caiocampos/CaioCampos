@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Rust program project to merge images to use in digital cards
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-Simple rust server with PostgresSQL connection
+Miscellaneous projects in Go
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260901175459)
+[comment]: # (version: 20260901211411)
