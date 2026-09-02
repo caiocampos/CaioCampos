@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Software with login, authority management and entity C.R.U.D., using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
+List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260902045702)
+[comment]: # (version: 20260902125454)
