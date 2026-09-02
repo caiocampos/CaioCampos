@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Miscellaneous projects in C, C++, C# and Zig
+Various projects in Lua, Perl and other languages
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Simple node server using Express and MongoDB
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260902175947)
+[comment]: # (version: 20260902211217)
