@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
-
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
-<br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
-
-Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
-<br><br>
 [cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
 Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
+<br><br>
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Software con login, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+<br><br>
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+
+Proyectos variados en Python
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260903003143)
+[comment]: # (version: 20260903012742)
