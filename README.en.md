@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
-
-Software with login, authority management and entity C.R.U.D., using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
-<br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
-
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
-<br><br>
 [Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
 Miscellaneous projects in Go
+<br><br>
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+
+Simple rust server with PostgresSQL connection
+<br><br>
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
+
+Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260904111024)
+[comment]: # (version: 20260904111453)
