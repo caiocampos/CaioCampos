@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Software con login, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+<br><br>
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+<br><br>
 [web-games](https://github.com/cao-ancap/web-games) - HTML
 
 Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
-<br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
-
-Proyectos variados en Python
-<br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
-
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260904174307)
+[comment]: # (version: 20260904205653)
