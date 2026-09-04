@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Proyectos variados en Go
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
 <br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-Servidor rust simple con conexión a PostgresSQL
+Proyectos variados en Rust
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260904111643)
+[comment]: # (version: 20260904125220)
