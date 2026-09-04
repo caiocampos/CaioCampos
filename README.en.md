@@ -36,13 +36,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 
 List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Miscellaneous projects in Rust
+Miscellaneous Python projects
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Rust program project to merge images to use in digital cards
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260904125220)
+[comment]: # (version: 20260904174307)
