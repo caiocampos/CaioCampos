@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Software with login, authority management and entity C.R.U.D., using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
+Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260904001701)
+[comment]: # (version: 20260904045810)
