@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Utility to automate creation of compressed backup files
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Miscellaneous projects in C, C++, C# and Zig
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260905115734)
+[comment]: # (version: 20260905152803)
