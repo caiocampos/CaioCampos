@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+<br><br>
+[7backupper](https://github.com/caiocampos/7backupper) - Python
+
+Utilidad para automatizar la creación de archivos de copia de seguridad compactados
+<br><br>
 [Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
 Proyectos variados en C, C++, C# y Zig
-<br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
-
-Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
-<br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260905045102)
+[comment]: # (version: 20260905115734)
