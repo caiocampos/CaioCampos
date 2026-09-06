@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Utilitário para automatizar criação de arquivos de backup compactados
+Servidor rust simples com conexão ao PostgresSQL
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
+Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260905221003)
+[comment]: # (version: 20260906000840)
