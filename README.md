@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Software with login, authority management and entity C.R.U.D., using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260906045831)
+[comment]: # (version: 20260906121621)
