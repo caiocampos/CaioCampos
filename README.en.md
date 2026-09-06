@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260906121621)
+[comment]: # (version: 20260906154041)
