@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Servidor node simples usando Express e MongoDB
+Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Projeto de programa em rust para mesclar imagens para usar em cards digitais
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Projetos variados em C, C++, C# e Zig
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260907050530)
+[comment]: # (version: 20260907142326)
