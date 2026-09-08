@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+
+Various projects in languages for JVM (Java, Kotlin, etc.)
+<br><br>
 [CaioCampos](https://github.com/caiocampos/CaioCampos)
 
 Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
-<br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Simple rust server with PostgresSQL connection
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260908180103)
+[comment]: # (version: 20260908211952)
