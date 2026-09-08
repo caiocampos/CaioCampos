@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
+Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Projetos variados em Python
+POI-inc, protótipo de Software de gerência de Pontos de Interesse, usando Kotlin, Spring e MongoDB
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260908130013)
+[comment]: # (version: 20260908180103)
