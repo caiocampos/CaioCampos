@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Rust program to mount markdown files for several languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260909050526)
+[comment]: # (version: 20260909130557)
