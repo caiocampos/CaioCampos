@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Various projects in languages for JVM (Java, Kotlin, etc.)
+Software with login, authority management and entity C.R.U.D., using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Simple rust server with PostgresSQL connection
+Rust program project to merge images to use in digital cards
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260908211952)
+[comment]: # (version: 20260909002743)
