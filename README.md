@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+List of games developed by Anarchist Dog that can be tested in browser
+<br><br>
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
 <br><br>
 [CaioCampos](https://github.com/caiocampos/CaioCampos)
 
 Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
-<br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
-
-WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260909130557)
+[comment]: # (version: 20260909175555)
