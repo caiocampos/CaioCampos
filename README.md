@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 <br><br>
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Simple rust server with PostgresSQL connection
+Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260910050739)
+[comment]: # (version: 20260910130347)
