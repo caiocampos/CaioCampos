@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-List of games developed by Anarchist Dog that can be tested in browser
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Simple node server using Express and MongoDB
+Simple rust server with PostgresSQL connection
 <br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260910002721)
+[comment]: # (version: 20260910050739)
