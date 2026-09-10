@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Simple node server using Express and MongoDB
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Software with login, authority management and entity C.R.U.D., using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
+Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260909210554)
+[comment]: # (version: 20260910002721)
