@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Simple node server using Express and MongoDB
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260911175010)
+[comment]: # (version: 20260911211033)
