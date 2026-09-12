@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
-
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
-<br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
-
-Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
-<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+<br><br>
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+
+Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260912183658)
+[comment]: # (version: 20260912222855)
