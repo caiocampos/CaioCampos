@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 <br><br>
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Rust program project to merge images to use in digital cards
 <br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
+Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260912222855)
+[comment]: # (version: 20260913001248)
