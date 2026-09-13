@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
+Proyectos variados en Luna, Perl y otros lenguajes
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
+Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260913001248)
+[comment]: # (version: 20260913051427)

@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Rust program project to merge images to use in digital cards
+Various projects in Lua, Perl and other languages
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Various projects in languages for JVM (Java, Kotlin, etc.)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260913001248)
+[comment]: # (version: 20260913051427)
