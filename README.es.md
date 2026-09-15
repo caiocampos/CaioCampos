@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
+Servidor node simple usando Express y MongoDB
 <br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260915051049)
+[comment]: # (version: 20260915134757)
