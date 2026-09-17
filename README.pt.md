@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+
+Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
+<br><br>
 [snake](https://github.com/cao-ancap/snake) - TypeScript
 
 Snake: Busque comida pelo seu terrítório mas evite obstáculos pelo caminho. Jogo feito em TypeScript
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
-<br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Backend usando NestJS (Express) e MongoDB (Mongoose), para jogo Asteroids: https://github.com/cao-ancap/asteroids
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260917063108)
+[comment]: # (version: 20260917134307)
