@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
-
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
-<br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
-
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
-<br><br>
 [primes](https://github.com/caiocampos/primes) - Rust
 
 WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+<br><br>
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+
+Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
+<br><br>
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260916213358)
+[comment]: # (version: 20260917004819)
