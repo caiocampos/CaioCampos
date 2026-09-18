@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Miscellaneous Python projects
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[readme-base](https://github.com/caiocampos/readme-base) - HTML
 
-Simple node server using Express and MongoDB
+Base code for the README assembly of the profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260918004056)
+[comment]: # (version: 20260918062602)
