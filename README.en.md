@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Software with login, administration of authorities and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
+Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+Miscellaneous Python projects
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+Simple node server using Express and MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260917214001)
+[comment]: # (version: 20260918004056)
