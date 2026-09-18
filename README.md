@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[primes](https://github.com/caiocampos/primes) - Rust
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+Simple rust server with PostgresSQL connection
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Miscellaneous projects in JavaScript, TypeScript and Google Apps Script
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260918174755)
+[comment]: # (version: 20260918210830)
