@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+
+Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
+<br><br>
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+
+Proyectos variados en Python
+<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
-<br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
-
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
-<br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
-
-Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260919062425)
+[comment]: # (version: 20260919123840)
