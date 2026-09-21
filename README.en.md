@@ -32,13 +32,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Miscellaneous projects in C, C++, C# and Zig
 <br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
 [JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260921002509)
+[comment]: # (version: 20260921051828)
