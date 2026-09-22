@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Various projects in languages for JVM (Java, Kotlin, etc.)
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-Miscellaneous projects in JavaScript, TypeScript and Google Apps Script
+Miscellaneous projects in Go
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260922051626)
+[comment]: # (version: 20260922133604)
