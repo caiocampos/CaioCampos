@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Various projects in languages for JVM (Java, Kotlin, etc.)
 <br><br>
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Miscellaneous projects in JavaScript, TypeScript and Google Apps Script
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260921233208)
+[comment]: # (version: 20260922051626)
