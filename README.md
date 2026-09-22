@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Utility to automate creation of compressed backup files
+Rust program project to merge images to use in digital cards
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Miscellaneous Python projects
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260922181327)
+[comment]: # (version: 20260922213527)

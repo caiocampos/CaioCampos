@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
+Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Programa en Rust para montar archivos markdown para diversas lenguas. Para la versión de Python visite: https://github.com/caiocampos/md-fuse-py
+Proyectos variados en Python
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260922181327)
+[comment]: # (version: 20260922213527)
