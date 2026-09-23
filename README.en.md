@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Miscellaneous projects in JavaScript, TypeScript and Google Apps Script
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Rust program project to merge images to use in digital cards
+Various projects in Lua, Perl and other languages
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Miscellaneous Python projects
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260922213527)
+[comment]: # (version: 20260923005132)
