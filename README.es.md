@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Proyectos variados en JavaScript, TypeScript y Google Apps Script
-<br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
-
-Proyectos variados en Luna, Perl y otros lenguajes
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
 [POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
 POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
+<br><br>
+[snake](https://github.com/cao-ancap/snake) - TypeScript
+
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260923005132)
+[comment]: # (version: 20260923062831)
