@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Miscellaneous projects in Go
 <br><br>
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[primes](https://github.com/caiocampos/primes) - Rust
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[Dart-Random-Stuff](https://github.com/caiocampos/Dart-Random-Stuff) - Dart
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+Miscellaneous projects in Dart
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260923062831)
+[comment]: # (version: 20260923134738)
