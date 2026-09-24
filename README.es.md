@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Proyectos variados en Go
+Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
+Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260923230356)
+[comment]: # (version: 20260924051254)
