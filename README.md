@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[snake](https://github.com/cao-ancap/snake) - TypeScript
-
-Snake: Look for food through your territory but avoid obstacles along the way. Game made in TypeScript
-<br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
-
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+
+Rust program to mount markdown files for several languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+<br><br>
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
+
+Simple node server using Express and MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260924231906)
+[comment]: # (version: 20260925051430)
