@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Servidor node simple usando Express y MongoDB
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Servidor rust simple con conexión a PostgresSQL
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260927183624)
+[comment]: # (version: 20260927231832)
