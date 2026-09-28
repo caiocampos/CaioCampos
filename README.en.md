@@ -32,13 +32,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Miscellaneous Python Projects
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Simple node server using Express and MongoDB
+Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
 [rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260927231832)
+[comment]: # (version: 20260928054412)
