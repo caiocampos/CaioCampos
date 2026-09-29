@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Miscellaneous projects in Go
+Simple node server using Express and MongoDB
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
+Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260929145952)
+[comment]: # (version: 20260929205827)
