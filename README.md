@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Miscellaneous Python Projects
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+Rust program project to merge images to use in digital cards
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20260930071657)
+[comment]: # (version: 20260930151004)
