@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
+Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+Biblioteca WebAssembly (Wasm) creada en Rust para realizar diversos cálculos relacionados con números primos (página utilizando Angular 22). Paquete npm: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261002162009)
+[comment]: # (version: 20261002205247)
