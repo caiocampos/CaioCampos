@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Miscellaneous projects in Go
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Rust program to mount markdown files for several languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261002085148)
+[comment]: # (version: 20261002162009)
