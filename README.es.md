@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+
+Proyectos variados en Rust
+<br><br>
+[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+
+Proyectos variados en Python
+<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
-<br><br>
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
-
-Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
-<br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
-
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261003133723)
+[comment]: # (version: 20261003180713)
