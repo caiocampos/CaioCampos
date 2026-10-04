@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Various projects in Lua, Perl and other languages
+Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261003214000)
+[comment]: # (version: 20261004015523)
