@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
+Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+Servidor node simple usando Express y MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261004152752)
+[comment]: # (version: 20261004194540)
