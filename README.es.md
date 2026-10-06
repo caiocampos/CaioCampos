@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
+<br><br>
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Software con login, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
-<br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
-
-Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261006001448)
+[comment]: # (version: 20261006064417)
