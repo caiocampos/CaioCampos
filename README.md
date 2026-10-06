@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Software with login, administration of authorities and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
+Profile page in github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[quiz-app](https://github.com/caiocampos/quiz-app) - TypeScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Quiz application using React Native (momentarily archived)
+Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261005171853)
+[comment]: # (version: 20261006001448)
