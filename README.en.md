@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Software with login, administration of authorities and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
+<br><br>
 [md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
 Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Various projects in Lua, Perl and other languages
-<br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
-
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Python program to mount markdown files for several languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261007014428)
+[comment]: # (version: 20261007090646)
