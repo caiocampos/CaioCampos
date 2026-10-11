@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Software com login, gestão de autoridades e C.R.U.D. de entidades. Para o projeto do servidor acesse: https://github.com/caiocampos/Restaurantes
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[node-server](https://github.com/caiocampos/node-server) - JavaScript
 
-Projetos variados em Rust
+Servidor node simples usando Express e MongoDB
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+Projeto de programa em rust para mesclar imagens para usar em cards digitais
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261010234437)
+[comment]: # (version: 20261011061428)
