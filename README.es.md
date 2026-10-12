@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
+Utilidad para automatizar la creación de archivos de copia de seguridad compactados
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Proyectos variados en Rust
+Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261011235508)
+[comment]: # (version: 20261012062147)
