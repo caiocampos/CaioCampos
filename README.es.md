@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
+Proyectos variados en Luna, Perl y otros lenguajes
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
+Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261013081452)
+[comment]: # (version: 20261013161755)
