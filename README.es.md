@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
 
-Proyectos variados en Luna, Perl y otros lenguajes
+Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Software con inicio, gestión de autoridades y C.R.U.D. de entidades, utilizando Go, Gin Gonic y MongoDB. Para acceder al proyecto de la página: https://github.com/caiocampos/restaurantes-app
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
+Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261013161755)
+[comment]: # (version: 20261013212639)
