@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Simple rust server with PostgresSQL connection
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Rust program project to merge images to use in digital cards
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261013212639)
+[comment]: # (version: 20261014012017)
