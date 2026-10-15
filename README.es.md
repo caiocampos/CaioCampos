@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
+Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Encurtador de enlaces usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
+Proyectos variados en JavaScript, TypeScript y Google Apps Script
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261015050129)
+[comment]: # (version: 20261015133734)
