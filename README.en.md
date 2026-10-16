@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[primes](https://github.com/caiocampos/primes) - Rust
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
-<br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
-
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
 [asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
 Backend using NestJS (Express) and MongoDB (Mongoose), for Asteroids game: https://github.com/cao-ancap/asteroids
+<br><br>
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+
+Rust program to mount markdown files for several languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261016045125)
+[comment]: # (version: 20261016132717)
