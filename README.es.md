@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Utilidad para automatizar la creación de archivos de copia de seguridad compactados
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261017184404)
+[comment]: # (version: 20261017223318)
