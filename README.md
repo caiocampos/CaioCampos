@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Miscellaneous projects in JavaScript, TypeScript and Google Apps Script
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Miscellaneous projects in Rust
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-WebAssembly Library (Wasm) created in Rust to perform several calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261016213503)
+[comment]: # (version: 20261017004141)
