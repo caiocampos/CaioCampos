@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Proyectos variados en Go
+Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
+<br><br>
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+
+Proyecto de programa en rust para mezclar imágenes para usar en tarjetas digitales
 <br><br>
 [CaioCampos](https://github.com/caiocampos/CaioCampos)
 
 Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
-<br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
-
-Programa en Rust para montar archivos markdown para diversas lenguas. Para la versión de Python visite: https://github.com/caiocampos/md-fuse-py
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261018124518)
+[comment]: # (version: 20261018172830)
