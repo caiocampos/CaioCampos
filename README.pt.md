@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Utilitário para automatizar criação de arquivos de backup compactados
+Servidor rust simples com conexão ao PostgresSQL
 <br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Projetos variados em linguagens para JVM (Java, Kotlin, etc)
+Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Snake: Busque comida pelo seu terrítório mas evite obstáculos pelo caminho. Jogo feito em TypeScript
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261017223318)
+[comment]: # (version: 20261018045928)
