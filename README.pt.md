@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-Servidor rust simples com conexão ao PostgresSQL
+Projetos variados em Go
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
+Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
+Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261018045928)
+[comment]: # (version: 20261018124518)
