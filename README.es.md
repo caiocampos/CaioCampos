@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Servidor Go utilizando Fiber y Parsley, con conexión a MongoDB, y caché con Redis o Valkey
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 <br><br>
-[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Proyectos variados en lenguajes para JVM (Java, Kotlin, etc)
+Utilidad para automatizar la creación de archivos de copia de seguridad compactados
 <br><br>
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
+Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261018205736)
+[comment]: # (version: 20261019002305)
