@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
 
-Software com login, gestão de autoridades e C.R.U.D. de entidades, utilizando Go, Gin Gonic e MongoDB. Para o projeto da página acesse: https://github.com/caiocampos/restaurantes-app
+Projetos variados em Go
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Utilitário para automatizar criação de arquivos de backup compactados
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261019211143)
+[comment]: # (version: 20261020010924)
