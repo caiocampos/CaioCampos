@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Projetos variados em Go
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 <br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Servidor node simples usando Express e MongoDB
+Projetos variados em C, C++, C# e Zig
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
+Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261021140241)
+[comment]: # (version: 20261021184936)
