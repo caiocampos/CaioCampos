@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[web-games](https://github.com/cao-ancap/web-games) - HTML
+
+Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
+<br><br>
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+
+Programa en Rust para montar archivos markdown para diversas lenguas. Para la versión de Python visite: https://github.com/caiocampos/md-fuse-py
+<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
-<br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
-
-Proyectos variados en C, C++, C# y Zig
-<br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
-
-Guión en Python para montar archivos markdown para varios idiomas. Para la versión en Rust visite: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261021184936)
+[comment]: # (version: 20261021233220)
