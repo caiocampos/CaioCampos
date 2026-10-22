@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[web-games](https://github.com/cao-ancap/web-games) - HTML
-
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
-<br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
-
-Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
-<br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+<br><br>
+[snake](https://github.com/cao-ancap/snake) - TypeScript
+
+Snake: Busque comida pelo seu terrítório mas evite obstáculos pelo caminho. Jogo feito em TypeScript
+<br><br>
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+
+Projetos variados em Rust
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261021233220)
+[comment]: # (version: 20261022051418)
