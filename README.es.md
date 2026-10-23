@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
 
-Asteroids: ¡Vija por la inmensidad del espacio y desvie de una lluvia de asteroides mortales! Control una nave espacial y evite los peligros que se aproximan, cada segundo cuenta! Cuanto más tiempo sobrevivirás, mayor será tu puntuación. Juego hecho en Godot 3
+Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
+<br><br>
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+
+Servidor rust simple con conexión a PostgresSQL
 <br><br>
 [web-games](https://github.com/cao-ancap/web-games) - HTML
 
 Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
-<br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
-
-Proyectos variados en JavaScript, TypeScript y Google Apps Script
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261023134336)
+[comment]: # (version: 20261023183733)
