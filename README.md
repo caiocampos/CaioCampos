@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+<br><br>
 [web-games](https://github.com/cao-ancap/web-games) - HTML
 
 List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
-
-Rust program project to merge images to use in digital cards
+Miscellaneous projects in JavaScript, TypeScript and Google Apps Script
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261023051249)
+[comment]: # (version: 20261023134336)

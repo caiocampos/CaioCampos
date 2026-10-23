@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+
+Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
+<br><br>
 [web-games](https://github.com/cao-ancap/web-games) - HTML
 
 Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
-<br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
-
-Projeto de programa em rust para mesclar imagens para usar em cards digitais
+Projetos variados em JavaScript, TypeScript e Google Apps Script
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261023051249)
+[comment]: # (version: 20261023134336)
