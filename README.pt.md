@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
-<br><br>
 [web-games](https://github.com/cao-ancap/web-games) - HTML
 
 Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
+<br><br>
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+
+Projeto de programa em rust para mesclar imagens para usar em cards digitais
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261022233016)
+[comment]: # (version: 20261023051249)
