@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+
+Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
+<br><br>
+[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+
+Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project access: https://github.com/caiocampos/caiocampos.github.io
+<br><br>
 [caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
 Home on Next 16. The page lists github repositories and translates the description of the projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
-<br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
-
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
-<br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
-
-List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261023232159)
+[comment]: # (version: 20261024045516)
