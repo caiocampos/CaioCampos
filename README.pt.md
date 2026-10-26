@@ -32,13 +32,13 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
+Projetos variados em Lua, Perl e outras linguagens
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
+Asteroids: Viaje pela vastidão do espaço e desvie de uma chuva de asteroides mortais! Controle uma nave espacial e evite os perigos que se aproximam, cada segundo conta! Quanto mais tempo você sobreviver, maior será sua pontuação. Jogo feito em Godot 3
 <br><br>
 [CaioCampos](https://github.com/caiocampos/CaioCampos)
 
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261026064721)
+[comment]: # (version: 20261026152321)

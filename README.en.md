@@ -32,13 +32,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Various projects in Lua, Perl and other languages
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-List of games developed by Anarchist Dog that can be tested in browser
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 <br><br>
 [CaioCampos](https://github.com/caiocampos/CaioCampos)
 
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261026064721)
+[comment]: # (version: 20261026152321)
