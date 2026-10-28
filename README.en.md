@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+Python program to mount markdown files for several languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
+Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that manipulates translation cache: https://github.com/caiocampos/cached-translation-middleware
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261028085321)
+[comment]: # (version: 20261028164606)
