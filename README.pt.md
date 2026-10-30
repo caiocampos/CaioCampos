@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
 
-Projeto de programa em rust para mesclar imagens para usar em cards digitais
+Projetos variados em JavaScript, TypeScript e Google Apps Script
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Projetos variados em Rust
+Software com login, gestão de autoridades e C.R.U.D. de entidades, utilizando Go, Gin Gonic e MongoDB. Para o projeto da página acesse: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261030164701)
+[comment]: # (version: 20261030223458)
