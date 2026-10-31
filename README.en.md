@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Python program to mount markdown files for several languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 <br><br>
-[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Various projects in Lua, Perl and other languages
+WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+List of games developed by Anarchist Dog that can be tested in browser
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261031060852)
+[comment]: # (version: 20261031144035)
