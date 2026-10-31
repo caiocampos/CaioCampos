@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Python program to mount markdown files for several languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Software with login, authority management and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project access: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[primes](https://github.com/caiocampos/primes) - Rust
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-List of games developed by Anarchist Dog that can be tested in browser
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261031144035)
+[comment]: # (version: 20261031201127)
