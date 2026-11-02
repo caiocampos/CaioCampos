@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Miscellaneous projects in JavaScript, TypeScript and Google Apps Script
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Miscellaneous projects in C, C++, C# and Zig
+Python program to mount markdown files for several languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261102095031)
+[comment]: # (version: 20261102202824)
