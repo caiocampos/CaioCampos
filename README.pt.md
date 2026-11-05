@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
+Página de postagens usando React, NestJS (Express) e MongoDB (Mongoose)
 <br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Projetos variados em C, C++, C# e Zig
+Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Snake: Busque comida pelo seu terrítório mas evite obstáculos pelo caminho. Jogo feito em TypeScript
+Software com login, gestão de autoridades e C.R.U.D. de entidades, utilizando Go, Gin Gonic e MongoDB. Para o projeto da página acesse: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261105164058)
+[comment]: # (version: 20261105234720)
