@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
 
-Software with login, authority management and entity C.R.U.D. For server project access: https://github.com/caiocampos/Restaurantes
+Rust program project to merge images to use in digital cards
 <br><br>
-[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Miscellaneous projects in Rust
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261106214252)
+[comment]: # (version: 20261107021313)
