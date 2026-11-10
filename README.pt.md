@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
+Software com login, gestão de autoridades e C.R.U.D. de entidades. Para o projeto do servidor acesse: https://github.com/caiocampos/Restaurantes
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
 
-Página de perfil no github, montada por automação utilizando md-fuse: https://github.com/caiocampos/md-fuse
+Programa em Python para montar arquivos markdown para diversas línguas. Para a versão em Rust acesse: https://github.com/caiocampos/md-fuse
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Projeto de programa em rust para mesclar imagens para usar em cards digitais
+Servidor rust simples com conexão ao PostgresSQL
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261110041519)
+[comment]: # (version: 20261110163259)
