@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Projetos variados em Go
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
+<br><br>
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+
+Software com login, gestão de autoridades e C.R.U.D. de entidades. Para o projeto do servidor acesse: https://github.com/caiocampos/Restaurantes
 <br><br>
 [asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
 Backend usando NestJS (Express) e MongoDB (Mongoose), para jogo Asteroids: https://github.com/cao-ancap/asteroids
-<br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
-
-Utilitário para automatizar criação de arquivos de backup compactados
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261111065740)
+[comment]: # (version: 20261111162911)
