@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
+[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+
+Proyectos variados en Go
+<br><br>
 [asteroid-score](https://github.com/caiocampos/asteroid-score) - TypeScript
 
 Backend usando NestJS (Express) y MongoDB (Mongoose), para juego Asteroids: https://github.com/cao-ancap/asteroids
 <br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
+[7backupper](https://github.com/caiocampos/7backupper) - Python
 
-Lista de juegos desarrollados por Perro Anarquista que pueden ser probados en navegador
-<br><br>
-[node-server](https://github.com/caiocampos/node-server) - JavaScript
-
-Servidor node simple usando Express y MongoDB
+Utilidad para automatizar la creación de archivos de copia de seguridad compactados
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261110233835)
+[comment]: # (version: 20261111065740)
