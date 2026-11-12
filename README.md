@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Dart-Random-Stuff](https://github.com/caiocampos/Dart-Random-Stuff) - Dart
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Miscellaneous projects in Dart
+Home on Next 16. The page lists github repositories and translates the description of the projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Rust program project to merge images to use in digital cards
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[Go-Random-Stuff](https://github.com/caiocampos/Go-Random-Stuff) - Go
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Miscellaneous projects in Go
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261112165938)
+[comment]: # (version: 20261112234639)
