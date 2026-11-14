@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Miscellaneous projects in C, C++, C# and Zig
-<br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
-
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Post page using React, NestJS (Express) and MongoDB (Mongoose)
+<br><br>
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+
+POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261114151646)
+[comment]: # (version: 20261114205250)
