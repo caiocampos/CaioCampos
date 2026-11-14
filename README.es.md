@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Middleware para el servicio de traducción de la página de cartera desarrollado en Go con estrategia Cache-Aside y Background Refresh, utilizando Gin Gonic y Redis. Para acceder al proyecto de la página: https://github.com/caiocampos/caiocampos.github.io
+Proyectos variados en C, C++, C# y Zig
 <br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Proyectos variados en JavaScript, TypeScript y Google Apps Script
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Proyectos variados en Python
+Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261114065416)
+[comment]: # (version: 20261114151646)

@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[cached-translation-middleware](https://github.com/caiocampos/cached-translation-middleware) - Go
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Middleware for the translation service of the portfolio page developed in Go with Cache-Aside and Background Refresh strategy, using Gin Gonic and Redis. For page project go to: https://github.com/caiocampos/caiocampos.github.io
+Miscellaneous projects in C, C++, C# and Zig
 <br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Miscellaneous projects in JavaScript, TypeScript and Google Apps Script
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[Python-Random-Stuff](https://github.com/caiocampos/Python-Random-Stuff) - Python
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Miscellaneous Python projects
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261114065416)
+[comment]: # (version: 20261114151646)
