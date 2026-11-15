@@ -32,13 +32,13 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
 
-Utility to automate creation of compressed backup files
+Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Various projects in languages for JVM (Java, Kotlin, etc.)
 <br><br>
 [caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261115020327)
+[comment]: # (version: 20261115094646)
