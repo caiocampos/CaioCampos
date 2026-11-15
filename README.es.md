@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[Random-Stuff](https://github.com/caiocampos/Random-Stuff) - Lua
 
-Programa en Rust para montar archivos markdown para diversas lenguas. Para la versión de Python visite: https://github.com/caiocampos/md-fuse-py
+Proyectos variados en Luna, Perl y otros lenguajes
 <br><br>
-[7backupper](https://github.com/caiocampos/7backupper) - Python
+[modular-server](https://github.com/caiocampos/modular-server) - TypeScript
 
-Utilidad para automatizar la creación de archivos de copia de seguridad compactados
+Orquestador de Servicios y Monólito Modular utilizando NestJS (Fastify) y MongoDB (Mongoose), centraliza módulos independientes en una única infraestructura de ejecución. Proyectos relacionados: https://github.com/caiocampos/blog-posts, https://github.com/caiocampos/shrtr, https://github.com/caiocampos/asteroid-score
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
+Página de inicio en Next 16. La página lista los repositorios de github y traduce la descripción de los proyectos utilizando inteligencia artificial. Proyecto que manipula la caché de traducción: https://github.com/caiocampos/cached-translation-middleware
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261115172058)
+[comment]: # (version: 20261115230421)
