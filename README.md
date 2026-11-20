@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[img-fuse](https://github.com/caiocampos/img-fuse) - Rust
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
-Rust program project to merge images to use in digital cards
+Home on Next 16. The page lists github repositories and translates the description of projects using artificial intelligence. Project that handles translation cache: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[go.db.restapi](https://github.com/caiocampos/go.db.restapi) - Go
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Go server using Fiber and Parsley, with MongoDB connection, and cache with Redis or Valkey
+Software with login, administration of authorities and C.R.U.D. of entities, using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
 <br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
+WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261119205359)
+[comment]: # (version: 20261120033952)
