@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
+[primes](https://github.com/caiocampos/primes) - Rust
 
-Simple rust server with PostgresSQL connection
+WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[snake](https://github.com/cao-ancap/snake) - TypeScript
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
 <br><br>
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261120170915)
+[comment]: # (version: 20261121000700)
