@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[primes](https://github.com/caiocampos/primes) - Rust
+[JVM-Random-Stuff](https://github.com/caiocampos/JVM-Random-Stuff) - Java
 
-WebAssembly Library (Wasm) created in Rust to perform various calculations related to prime numbers (page using Angular 22). npm package: https://www.npmjs.com/package/@caiocampos/primes
+Various projects in languages for JVM (Java, Kotlin, etc.)
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[CaioCampos](https://github.com/caiocampos/CaioCampos)
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
 <br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Rust program to mount markdown files for various languages. For Python version access: https://github.com/caiocampos/md-fuse-py
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261121000700)
+[comment]: # (version: 20261121073636)
