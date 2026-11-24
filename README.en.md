@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
-Profile page on github, mounted by automation using md-fuse: https://github.com/caiocampos/md-fuse
+Post page using React, NestJS (Express) and MongoDB (Mongoose)
 <br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
+[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
 
-Software with login, management of authorities and C.R.U.D. of entities. For server project access: https://github.com/caiocampos/Restaurantes
+Miscellaneous projects in C, C++, C# and Zig
 <br><br>
-[md-fuse-py](https://github.com/caiocampos/md-fuse-py) - Python
+[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
 
-Python program to mount markdown files for various languages. For the version in Rust access: https://github.com/caiocampos/md-fuse
+Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261124045558)
+[comment]: # (version: 20261124193921)
