@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
+
+Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
+<br><br>
+[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+
+Projetos variados em JavaScript, TypeScript e Google Apps Script
+<br><br>
 [web-games](https://github.com/cao-ancap/web-games) - HTML
 
 Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
-<br><br>
-[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
-
-Programa em Rust para montar arquivos markdown para diversas línguas. Para a versão em Python acesse: https://github.com/caiocampos/md-fuse-py
-<br><br>
-[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
-
-Encurtador de links usando React, NestJS (Express) e MongoDB (Mongoose) 
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261125034040)
+[comment]: # (version: 20261125184648)
