@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[Zig-C-Random-Stuff](https://github.com/caiocampos/Zig-C-Random-Stuff) - C#
+[md-fuse](https://github.com/caiocampos/md-fuse) - Rust
 
-Miscellaneous projects in C, C++, C# and Zig
+Rust program to mount markdown files for several languages. For Python version access: https://github.com/caiocampos/md-fuse-py
 <br><br>
-[asteroids](https://github.com/cao-ancap/asteroids) - GDScript
+[shrtr](https://github.com/caiocampos/shrtr) - TypeScript
 
-Asteroids: Travel through the vastness of space and divert from a rain of deadly asteroids! Control a spaceship and avoid the dangers approaching, every second counts! The longer you survive, the higher your score. Game made in Godot 3
+Link shortener using React, NestJS (Express) and MongoDB (Mongoose)
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261124193921)
+[comment]: # (version: 20261125034040)
