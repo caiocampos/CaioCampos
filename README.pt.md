@@ -32,17 +32,17 @@ Para conhecer meus projetos, por favor acesse o site: https://caiocampos.github.
 **Repositórios em destaque hoje:**
 
 
+[primes](https://github.com/caiocampos/primes) - Rust
+
+Biblioteca WebAssembly (Wasm) criada em Rust para efetuar diversos cálculos relacionados à números primos (página utilizando Angular 22). Pacote npm: https://www.npmjs.com/package/@caiocampos/primes
+<br><br>
 [caiocampos.github.io](https://github.com/caiocampos/caiocampos.github.io) - TypeScript
 
 Página Inicial em Next 16. A página lista os repositórios do github e traduz a descrição dos projetos utilizando inteligência artificial. Projeto que manipula o cache de tradução: https://github.com/caiocampos/cached-translation-middleware
 <br><br>
-[JS-Random-Stuff](https://github.com/caiocampos/JS-Random-Stuff) - TypeScript
+[rust-db-restapi](https://github.com/caiocampos/rust-db-restapi) - Rust
 
-Projetos variados em JavaScript, TypeScript e Google Apps Script
-<br><br>
-[web-games](https://github.com/cao-ancap/web-games) - HTML
-
-Lista de jogos desenvolvidos por Cachorro Anarquista que podem ser testados em navegador
+Servidor rust simples com conexão ao PostgresSQL
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimentos especiais a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) e
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261125184648)
+[comment]: # (version: 20261126025912)
