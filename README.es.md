@@ -32,17 +32,17 @@ Para conocer mis proyectos, por favor visite el sitio web: https://caiocampos.gi
 **Repositorios destacados hoy:**
 
 
-[CaioCampos](https://github.com/caiocampos/CaioCampos)
+[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
 
-Página de perfil en github, montada por automatización utilizando md-fuse: https://github.com/caiocampos/md-fuse
+POI-inc, prototipo de software de gestión de puntos de interés, usando Kotlin, Spring y MongoDB
+<br><br>
+[snake](https://github.com/cao-ancap/snake) - TypeScript
+
+Snake: Busque comida por su terrítorio pero evite obstáculos por el camino. Juego hecho en TypeScript
 <br><br>
 [blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
 
 Página de posts usando React, NestJS (Express) y MongoDB (Mongoose)
-<br><br>
-[restaurantes-app](https://github.com/caiocampos/restaurantes-app) - TypeScript
-
-Software con acceso, gestión de autoridades y C.R.U.D. de entidades. Para acceder al proyecto del servidor: https://github.com/caiocampos/Restaurantes
 
 
 ---
@@ -186,4 +186,4 @@ Agradecimientos especiales a:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) y
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261127182243)
+[comment]: # (version: 20261128013453)
