@@ -32,17 +32,17 @@ To know my projects, please visit the website: https://caiocampos.github.io
 **Featured repositories today:**
 
 
-[POI-inc](https://github.com/caiocampos/POI-inc) - Kotlin
+[Rust-Random-Stuff](https://github.com/caiocampos/Rust-Random-Stuff) - Rust
 
-POI-inc, prototype Points of Interest Management Software using Kotlin, Spring and MongoDB
+Miscellaneous projects in Rust
 <br><br>
-[snake](https://github.com/cao-ancap/snake) - TypeScript
+[web-games](https://github.com/cao-ancap/web-games) - HTML
 
-Snake: Seek food through your territory but avoid obstacles along the way. Game made in TypeScript
+List of games developed by Anarchist Dog that can be tested in browser
 <br><br>
-[blog-posts](https://github.com/caiocampos/blog-posts) - TypeScript
+[Restaurantes](https://github.com/caiocampos/Restaurantes) - Go
 
-Post page using React, NestJS (Express) and MongoDB (Mongoose)
+Software with login, authority management and entity C.R.U.D., using Go, Gin Gonic and MongoDB. For page project go to: https://github.com/caiocampos/restaurantes-app
 
 
 ---
@@ -186,4 +186,4 @@ Special thanks to:
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
-[comment]: # (version: 20261128013453)
+[comment]: # (version: 20261128104523)
